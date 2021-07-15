@@ -1,0 +1,182 @@
+/*Text*/
+
+.title {
+    font-size: 75px;
+    font-family: Alex Brush;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.subtitle {
+    font-size: 30px;
+    font-family: Petrona;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+
+.header {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.choose {
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Images*/
+
+.icon {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Buttons*/
+
+a {
+    font-size: 30px;
+    font-family: Petrona;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+    padding: 20px 208px;
+}
+
+.start-button {
+    text-align: center;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.return-button {
+    background: #8E5067;
+    padding: 12px 80px;
+    margin-right: 120px;
+}
+
+.return-button-div {
+    position: fixed;
+    top: 85%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.continue-button {
+    padding: 12px 65px;
+}
+
+.continue-button-div {
+    position: fixed;
+    top: 85%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+/*Slider*/
+
+.slider {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 20px;
+    -webkit-appearance:none;
+    appearance: none;
+    width:60%;
+    height: 15px;
+    border-radius: 10px;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 28px;
+    height: 28px;
+    background: url(rewards.png);
+    background-size: 28px 28px;
+    cursor: pointer;
+} 
+
+.budget-value-div {
+    position: fixed;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    pointer-events: none;
+}
+
+.budget-value {
+    font-size: 50px;
+    font-family: Petrona;
+    text-align: center;
+}
+
+/*Border*/
+
+/*
+This is to try to create the shadow
+.pink-square {
+    background-color: #FFE9F1;
+    height: 100%;
+    width: 95%;
+    margin: var(--border-size)px;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+*/
+
+.border {
+    --border-size: 75px;
+    border:  var(--border-size) solid transparent;
+    border-image: url(pattern2.png) 33% round;
+    height:  calc(100% - 2 * var(--border-size));
+}
+
+/*General*/
+
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0px; 
+    background-color: #FFE9F1;
+}
+
+html {
+    height: 100vh;
+}
+
+/*Fonts*/
+
+@font-face {
+    font-family: Alex Brush;
+    src: url(AlexBrush-Regular.ttf);
+}
+
+@font-face {
+    font-family: Petrona;
+    src: url(Petrona-VariableFont_wght.ttf);
+}
+
+@media only screen and (max-width: 650px) {
+    a {
+        padding: 20px 90px;
+    }
+}
+
+/*
+Questions
+
+No collision between objects
+*/
