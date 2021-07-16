@@ -1,3 +1,36 @@
+/*General*/
+
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0px; 
+    background-color: #FFE9F1;
+}
+
+html {
+    height: 100vh;
+}
+
+/*Divs*/
+
+.main-div {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    --border-size: 75px;
+    border:  var(--border-size) solid transparent;
+    border-image: url(pattern2.png) 33% round;
+    height:  calc(100% - 2 * var(--border-size));
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.two-buttons-div {
+    display:flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
 /*Text*/
 
 .title {
@@ -16,18 +49,12 @@
     margin-top: 0px;
 }
 
-.header {
-    position: fixed;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .choose {
-    position: fixed;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    font-size: 75px;
+    font-family: Alex Brush;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 100px;
 }
 
 /*Images*/
@@ -35,9 +62,7 @@
 .icon {
     width: 70px;
     height: 70px;
-    position: fixed;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-bottom: 30px;
 }
 
 /*Buttons*/
@@ -53,45 +78,18 @@ a {
     padding: 20px 208px;
 }
 
-.start-button {
-    text-align: center;
-    position: fixed;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .return-button {
     background: #8E5067;
     padding: 12px 80px;
-    margin-right: 120px;
-}
-
-.return-button-div {
-    position: fixed;
-    top: 85%;
-    left: 30%;
-    transform: translate(-50%, -50%);
 }
 
 .continue-button {
     padding: 12px 65px;
 }
 
-.continue-button-div {
-    position: fixed;
-    top: 85%;
-    left: 70%;
-    transform: translate(-50%, -50%);
-}
-
 /*Slider*/
 
 .slider {
-    position: fixed;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     margin-bottom: 20px;
     -webkit-appearance:none;
     appearance: none;
@@ -110,51 +108,11 @@ a {
     cursor: pointer;
 } 
 
-.budget-value-div {
-    position: fixed;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-    pointer-events: none;
-}
-
 .budget-value {
     font-size: 50px;
     font-family: Petrona;
     text-align: center;
-}
-
-/*Border*/
-
-/*
-This is to try to create the shadow
-.pink-square {
-    background-color: #FFE9F1;
-    height: 100%;
-    width: 95%;
-    margin: var(--border-size)px;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-*/
-
-.border {
-    --border-size: 75px;
-    border:  var(--border-size) solid transparent;
-    border-image: url(pattern2.png) 33% round;
-    height:  calc(100% - 2 * var(--border-size));
-}
-
-/*General*/
-
-body {
-    height: 100vh;
-    width: 100%;
-    margin: 0px; 
-    background-color: #FFE9F1;
-}
-
-html {
-    height: 100vh;
+    margin-bottom: 150px;
 }
 
 /*Fonts*/
