@@ -87,7 +87,6 @@ a {
 
 .slider {
     margin-bottom: 20px;
-    -webkit-appearance:none;
     appearance: none;
     width:60%;
     height: 15px;
@@ -95,7 +94,6 @@ a {
 }
 
 .slider::-webkit-slider-thumb {
-    -webkit-appearance: none;
     appearance: none;
     width: 28px;
     height: 28px;
@@ -109,6 +107,56 @@ a {
     font-family: Petrona;
     text-align: center;
     margin-bottom: 150px;
+}
+
+/*Drop-down*/
+
+.select-div {
+    width: 100%;
+    min-width: 15ch;
+    max-width: 30ch;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    padding: 0.25em 0.5em;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: #fff;
+    background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
+    display: grid;
+    grid-template-areas: "select";
+    align-items: center;
+    margin-bottom: 200px;
+    text-align-last:center;
+}
+
+.select-div::after {
+    content: "";
+    width: 0.8em;
+    height: 0.5em;
+    background-color: black;
+    clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+    justify-self: end;
+}
+  
+  select,
+  .select-div:after {
+    grid-area: select;
+  }
+
+select {
+    appearance: none;
+    background-color: transparent;
+    border: none;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    outline: none;
 }
 
 /*Fonts*/
