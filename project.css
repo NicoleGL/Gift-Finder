@@ -31,6 +31,15 @@ html {
     width: 100%;
 }
 
+.row-of-buttons {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 160px;
+}
+
 /*Text*/
 
 .title {
@@ -53,12 +62,23 @@ html {
     margin-bottom: 100px;
 }
 
+.character-name {
+    margin: 0;
+    font-size: 20px;
+    color: black;
+}
+
 /*Images*/
 
 .icon {
     width: 70px;
     height: 70px;
     margin-bottom: 30px;
+}
+
+.character-img {
+    width: 50%;
+    height: 80%;
 }
 
 /*Buttons*/
@@ -82,6 +102,39 @@ a {
 .continue-button {
     padding: 12px 65px;
 }
+
+
+.character-button {
+    padding: 0;
+    width: 18%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    background: white;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 42%;
+}
+
+.character-button:hover {
+    background: #f9f9f9;  
+}
+
+.character-button:active {
+    filter: none;  
+}
+
+:target {
+    filter: none;  
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+} 
+
+.row-of-buttons a p{display:none;}
+.row-of-buttons a:hover p{display:block;}
+.row-of-buttons :target p{display:block;}
 
 /*Slider*/
 
@@ -128,14 +181,14 @@ a {
     grid-template-areas: "select";
     align-items: center;
     margin-bottom: 200px;
-    text-align-last:center;
+    text-align-last: center;
 }
 
 .select-div::after {
     content: "";
     width: 0.8em;
     height: 0.5em;
-    background-color: black;
+    background-color: #000;
     clip-path: polygon(100% 0%, 0 0%, 50% 100%);
     justify-self: end;
 }
@@ -159,6 +212,7 @@ select {
     outline: none;
 }
 
+
 /*Fonts*/
 
 @font-face {
@@ -176,9 +230,3 @@ select {
         padding: 20px 90px;
     }
 }
-
-/*
-Questions
-
-No collision between objects
-*/
