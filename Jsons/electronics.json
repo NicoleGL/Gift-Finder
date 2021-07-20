@@ -1,0 +1,600 @@
+[
+    {
+        "product_id": "3691226",
+        "store_name": "Newegg",
+        "host_name": "newegg.com",
+        "title": "Switch Lite - Gray",
+        "product_description": "Introducing Nintendo Switch Lite, a new version of the Nintendo Switch system thats optimized for personal, handheld play. With a built-in +Control Pad, and a sleek, unibody design, Nintendo Switch Lite is great for on-the-go gaming. Compatible with all physical and digital Nintendo Switch games that support Handheld mode.",
+        "brand": "Nintendo",
+        "category_name": "Video",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 20999,
+        "sale_price": 20999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/newegg.com/bb254d6a5a8c5e2ca7ef8028098853b9"
+        ],
+        "web_url": "https://www.newegg.com/grey-hdhsgazaa-nintendo-switch-lite-console/p/N82E16878190839",
+        "mobile_url": null,
+        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18536986262&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fgrey-hdhsgazaa-nintendo-switch-lite-console%2Fp%2FN82E16878190839",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "18536986262"
+        ],
+        "locale": "en-US",
+        "image": {
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/newegg.com/bb254d6a5a8c5e2ca7ef8028098853b9",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/bb254d6a5a8c5e2ca7ef8028098853b9",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/newegg.com/bb254d6a5a8c5e2ca7ef8028098853b9",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "4835779",
+        "store_name": "Newegg",
+        "host_name": "newegg.com",
+        "title": "Returnal - PS5 Video Games",
+        "product_description": "The procedural world of returnal invites you to dust yourself Off in the face of defeat and take on new, evolving challenges with every Rebirth. After crash-landing on a shape-shifting world, selene must search through the barren landscape of an ancient civilization for her Escape. Isolated and alone, she finds herself fighting tooth and nail for survival. Again and again, shes defeated - forced to restart her journey every time she dies.",
+        "brand": "Playstation",
+        "category_name": "Video",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 6999,
+        "sale_price": 6999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/newegg.com/6347972ab86e2150a67f1c2d090fa8da"
+        ],
+        "web_url": "https://www.newegg.com/p/N82E16879261899",
+        "mobile_url": null,
+        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18779269240&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16879261899",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "18779269240"
+        ],
+        "locale": "en-US",
+        "image": {
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/newegg.com/6347972ab86e2150a67f1c2d090fa8da",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/6347972ab86e2150a67f1c2d090fa8da",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/newegg.com/6347972ab86e2150a67f1c2d090fa8da",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "3563687",
+        "store_name": "Newegg",
+        "host_name": "newegg.com",
+        "title": "EB-125 Earbud Headphone",
+        "product_description": "20Hz-23KHz 3.5mm Connector 3 feet Cord Length",
+        "brand": "Maxell",
+        "category_name": "Headphones",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 1399,
+        "sale_price": 999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/newegg.com/8cee6fa66fb715b717024320d594e578"
+        ],
+        "web_url": "https://www.newegg.com/maxell-eb-125-in-ear-earbud/p/N82E16826630010",
+        "mobile_url": null,
+        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.17604393006&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fmaxell-eb-125-in-ear-earbud%2Fp%2FN82E16826630010",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "17604393006"
+        ],
+        "locale": "en-US",
+        "image": {
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/8cee6fa66fb715b717024320d594e578",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/newegg.com/8cee6fa66fb715b717024320d594e578",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/newegg.com/8cee6fa66fb715b717024320d594e578",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "5984057",
+        "store_name": "Dell",
+        "host_name": "dell.com",
+        "title": "VIVE Cosmos VR Headset",
+        "product_description": "Dive into virtual reality experiences with this HTC VIVE Cosmos 3-D virtual reality headset. A simple design eliminates the need for a base station, while the flip-up display lets you quickly escape to answer calls and texts.Explore vast words with clear vision and sound using this HTC VIVE Cosmos 3-D virtual reality headset. Inside-out tracking with six built-in cameras gets rid of the base station for a seamless setup that’s portable without impacting immersion. Pairing dual RGB LCD screens with an adjustable IPD dial, this headset increases subpixels for enhanced clarity and a lifelike view. The 90Hz refresh rates ensures you stay in the moment, and a 110-degree field of view surrounds you with the experience. Compatibility with a range of VR-ready PC desktops and laptops supports effortless pairing with your computer, and USB and DisplayPort connections offer easy access. Boasting a lightweight construction, this Cosmos virtual reality headset provides hours of play, while the flip-up display keeps you aware of your surroundings. Included on-ear headphones with sound isolation keep out sounds so you’re not distracted. This HTC VIVE Cosmos 3-D virtual reality headset works with the VIVE wireless adapter (not included) so you can play without cables and offers subscription access to the VIVEPORT library of over 700 games and experiences. WARNING: Cancer and Reproductive Harm - www.P65Warnings.ca.gov",
+        "brand": "HTC",
+        "category_name": "Headsets",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 69900,
+        "sale_price": 69900,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/dell.com/21cd519b96084f1556f4abd5ea977592"
+        ],
+        "web_url": "https://www.dell.com/en-us/shop/htc-vive-cosmos-vr-headset/apd/aa809644/gaming-gaming-accessories",
+        "mobile_url": null,
+        "affiliate_url": "https://www.kqzyfj.com/click-9252602-13502820?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fhtc-vive-cosmos-vr-headset%2Fapd%2Faa809644%2Fgaming-gaming-accessories",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "AA809644"
+        ],
+        "locale": "en-US",
+        "image": {
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/dell.com/21cd519b96084f1556f4abd5ea977592",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/dell.com/21cd519b96084f1556f4abd5ea977592",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/dell.com/21cd519b96084f1556f4abd5ea977592",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "5668742",
+        "store_name": "SONOS",
+        "host_name": "sonos.com",
+        "title": "Speaker Stand Pair for One and Play:1",
+        "product_description": "Place your Sonos One or Play:1 surrounds with this pair of custom stands, the first speaker stands ever designed and released by Sonos.",
+        "brand": "Sonos",
+        "category_name": "Speaker Stands & Mounts",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 24999,
+        "sale_price": 24999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/4921565404d09c2d629b150f6fc6427d",
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/a079912b43e0ee0810ad9ddf5831d864",
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/0aad5d99944aa28f6ae9e10f291178c0",
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/81df219e0e448043413dc603c552563a",
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/9d4e6b8bf7678e7f32fcc81ad83b0415",
+            "https://img.klarnacdn.net/2/thumbnail/sonos.com/62a23ad164dfbc912995e11898962de2"
+        ],
+        "web_url": "https://www.sonos.com/en-us/shop/speaker-stand-pair-one-play1-white.html",
+        "mobile_url": null,
+        "affiliate_url": "https://www.dpbolvw.net/click-9252602-13355209?url=https%3A%2F%2Fwww.sonos.com%2Fen-us%2Fshop%2Fspeaker-stand-pair-one-play1-white.html",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "SS1FSWW1"
+        ],
+        "locale": "en-US",
+        "image": {
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/sonos.com/4921565404d09c2d629b150f6fc6427d",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/sonos.com/4921565404d09c2d629b150f6fc6427d",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/4921565404d09c2d629b150f6fc6427d",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            }
+        },
+        "other_images": [
+            {
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/a079912b43e0ee0810ad9ddf5831d864",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                },
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/sonos.com/a079912b43e0ee0810ad9ddf5831d864",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/sonos.com/a079912b43e0ee0810ad9ddf5831d864",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                }
+            },
+            {
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/sonos.com/0aad5d99944aa28f6ae9e10f291178c0",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/sonos.com/0aad5d99944aa28f6ae9e10f291178c0",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                },
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/0aad5d99944aa28f6ae9e10f291178c0",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                }
+            },
+            {
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/sonos.com/81df219e0e448043413dc603c552563a",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/sonos.com/81df219e0e448043413dc603c552563a",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                },
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/81df219e0e448043413dc603c552563a",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                }
+            },
+            {
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/sonos.com/9d4e6b8bf7678e7f32fcc81ad83b0415",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/9d4e6b8bf7678e7f32fcc81ad83b0415",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                },
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/sonos.com/9d4e6b8bf7678e7f32fcc81ad83b0415",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                }
+            },
+            {
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/sonos.com/62a23ad164dfbc912995e11898962de2",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/sonos.com/62a23ad164dfbc912995e11898962de2",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                },
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/sonos.com/62a23ad164dfbc912995e11898962de2",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                }
+            }
+        ]
+    },
+    {
+        "product_id": "797435",
+        "store_name": "HP",
+        "host_name": "store.hp.com",
+        "title": "S101 Speaker Bar",
+        "product_description": "Simply attach the speaker bar below your display’s[1] bottom bezel through the slots designed for a perfect fit and connect to the display’s integrated USB port. No tools or software driver required!|Enjoy clear dual-speaker stereo sound for your media and more, and use the line-in port to connect your phone or media player directly to the speaker bar. A headphone jack lets you listen without disturbing your colleagues.|Rest easy HP S101 Speaker Bar|5UU40AT",
+        "brand": "HP",
+        "category_name": "Speakers",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 3100,
+        "sale_price": 3100,
+        "in_stock": false,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/store.hp.com/37e92542a3b899352873005a4dca7b36",
+            "https://img.klarnacdn.net/2/thumbnail/store.hp.com/68baf662b220426468829ba87f91a1dd"
+        ],
+        "web_url": "https://store.hp.com/us/en/pdp/hp-s101-speaker-bar?a=1",
+        "mobile_url": null,
+        "affiliate_url": "https://www.awin1.com/pclick.php?p=24700996413&a=696205&m=7168",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "24700996413"
+        ],
+        "locale": "en-US",
+        "image": {
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/store.hp.com/37e92542a3b899352873005a4dca7b36",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/store.hp.com/37e92542a3b899352873005a4dca7b36",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/store.hp.com/37e92542a3b899352873005a4dca7b36",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            }
+        },
+        "other_images": [
+            {
+                "small": {
+                    "url": "https://img.klarnacdn.net/2/small/store.hp.com/68baf662b220426468829ba87f91a1dd",
+                    "width": 330,
+                    "format": "small",
+                    "height": 330
+                },
+                "source": {
+                    "url": "https://img.klarnacdn.net/2/source/store.hp.com/68baf662b220426468829ba87f91a1dd",
+                    "width": -1,
+                    "format": "source",
+                    "height": -1
+                },
+                "thumbnail": {
+                    "url": "https://img.klarnacdn.net/2/thumbnail/store.hp.com/68baf662b220426468829ba87f91a1dd",
+                    "width": 220,
+                    "format": "thumbnail",
+                    "height": 220
+                }
+            }
+        ]
+    },
+    {
+        "product_id": "5641981",
+        "store_name": "H&M",
+        "host_name": "hm.com",
+        "title": "Charm-detail Mobile Phone Case - Black",
+        "product_description": "iPhone case in matte plastic with a metal ring at top and three rhinestone-decorated charms to choose from.",
+        "brand": "H&M",
+        "category_name": "Mobile Phone Cases",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 1799,
+        "sale_price": 799,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/hm.com/25fc20b32eab02ca9bef47a1dde3316d"
+        ],
+        "web_url": "https://www2.hm.com/en_us/productpage.0969645001.html",
+        "mobile_url": null,
+        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.611138&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0969645001.html",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "611138"
+        ],
+        "locale": "en-US",
+        "image": {
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/hm.com/25fc20b32eab02ca9bef47a1dde3316d",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/hm.com/25fc20b32eab02ca9bef47a1dde3316d",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/25fc20b32eab02ca9bef47a1dde3316d",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "4981377",
+        "store_name": "Gilt",
+        "host_name": "gilt.com",
+        "title": "Kindle Paperwhite 2018 8GB",
+        "product_description": "Design details: Our thinnest, lightest Kindle Paperwhite yet, with a sleek, modern design so you can read comfortably for hours. Features our signature 300 ppi, glare-free Paperwhite display, laser-quality text, and twice the storage of the previous generation. Plus a single battery charge lasts weeks, not hours. With the waterproof Kindle Paperwhite, you?re free to read and relax in more places, including the beach, pool, or bath. Paperwhite is IPX8 rated to protect against accidental immersion in up to two meters of fresh water for up to 60 minutes. Measures 6.6in x 4.6in x 0.3in Imported",
+        "brand": "Amazon",
+        "category_name": "Tech",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 12999,
+        "sale_price": 12999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/gilt.com/8b6b7e2b87d2190e5c872dba4a924b57"
+        ],
+        "web_url": "https://www.gilt.com/boutique/product/181062/128476746/",
+        "mobile_url": null,
+        "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F181062%2F128476746%2F",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "3050555507"
+        ],
+        "locale": "en-US",
+        "image": {
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/8b6b7e2b87d2190e5c872dba4a924b57",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/gilt.com/8b6b7e2b87d2190e5c872dba4a924b57",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/gilt.com/8b6b7e2b87d2190e5c872dba4a924b57",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "5973534",
+        "store_name": "Academy",
+        "host_name": "academy.com",
+        "title": "Versa 3 Smartwatch Black",
+        "product_description": "The Fitbit Versa 3 Smartwatch features a water-resistant design and fast charging capabilities. Fitbit Versa 3 Smartwatch Black - Exercise Accessories at Academy Sports",
+        "brand": "Fitbit",
+        "category_name": "Exercise & Fitness",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 22999,
+        "sale_price": 22999,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/academy.com/0bac1eb8cdff38c9ba1b21f492c74e88"
+        ],
+        "web_url": "https://www.academy.com/shop/pdp/fitbit-versa-3-smartwatch-#repChildCatid=14658069",
+        "mobile_url": null,
+        "affiliate_url": "https://www.jdoqocy.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Ffitbit-versa-3-smartwatch-%23repChildCatid%3D14658069",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "128123659"
+        ],
+        "locale": "en-US",
+        "image": {
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/0bac1eb8cdff38c9ba1b21f492c74e88",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            },
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/academy.com/0bac1eb8cdff38c9ba1b21f492c74e88",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/academy.com/0bac1eb8cdff38c9ba1b21f492c74e88",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            }
+        },
+        "other_images": null
+    },
+    {
+        "product_id": "4299955",
+        "store_name": "Gilt",
+        "host_name": "gilt.com",
+        "title": "Smart Plug",
+        "product_description": "Color/pattern: white abs plastic Design details: Amazon Smart Plug lets you voice control your lights, fans, coffee makers, and more. All you need is an Alexa-enabled device like Echo, Fire TV, Fire tablet, Sonos One, or even just the Alexa app on your phone. And with multiple Amazon Smart Plugs, you can control multiple outlets. ?? Makes your home smart ?? set up helpful routines ?? With Away Lighting, Alexa can automatically turn connected lights on and off to make it look like youre home when youre away ?? Use your Amazon Smart Plug to turn on and off compatible devices that have a mechanical on/off switch ?? Introducing Certified for Humans, smart devices for non-experts Measures 3.2 x 1.5 x 2.2 Please note: All measurements were taken by hand and are approximate; slight variations may occur.",
+        "brand": "Amazon",
+        "category_name": "Kitchen",
+        "is_male": null,
+        "is_female": null,
+        "price_currency": "USD",
+        "retail_price": 2199,
+        "sale_price": 2199,
+        "in_stock": true,
+        "image_url": [
+            "https://img.klarnacdn.net/2/thumbnail/gilt.com/64581193c7d9f2ce45ac59f11928a9d5"
+        ],
+        "web_url": "https://www.gilt.com/boutique/product/179239/125931240/",
+        "mobile_url": null,
+        "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F179239%2F125931240%2F",
+        "klarna_merchant_id": null,
+        "feed_key": [
+            "3050881813"
+        ],
+        "locale": "en-US",
+        "image": {
+            "source": {
+                "url": "https://img.klarnacdn.net/2/source/gilt.com/64581193c7d9f2ce45ac59f11928a9d5",
+                "width": -1,
+                "format": "source",
+                "height": -1
+            },
+            "small": {
+                "url": "https://img.klarnacdn.net/2/small/gilt.com/64581193c7d9f2ce45ac59f11928a9d5",
+                "width": 330,
+                "format": "small",
+                "height": 330
+            },
+            "thumbnail": {
+                "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/64581193c7d9f2ce45ac59f11928a9d5",
+                "width": 220,
+                "format": "thumbnail",
+                "height": 220
+            }
+        },
+        "other_images": null
+    }
+]
