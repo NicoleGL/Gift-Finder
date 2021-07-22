@@ -1,18 +1,13 @@
-const data = {
-    categories: [
-        "clothes",
-        "accesories",
-        "electronics",
-        "decoration",
-        "sport & outdoors",
-        "games",
-        "hobbies",
-        "books",
-        "cooking",
-    ]
-}
+const pathToJsons = './jsons/'
 const dropDown = document.getElementById("category");
 
+async function fetchJsonData(nameOfJson) {
+    const pathToFile = pathToJsons.concat(nameOfJson)
+    const response = await fetch(pathToFile, { 'method': 'get', 'mode': "no-cors" })
+    const data = response.json()
+    return data
+
+}
 
 function capitalizeCategories(categories) {
     const array = [];
@@ -23,9 +18,9 @@ function capitalizeCategories(categories) {
     return array;
 }
 
-function renderStaticData() {
-    const categories = capitalizeCategories(data.categories);
-    for (let category of categories) {
+function renderData(categories) {
+    const capitalizedCategories = capitalizeCategories(categories);
+    for (let category of capitalizedCategories) {
         const option = document.createElement("option");
         option.value = category
         option.innerHTML = category;
@@ -33,21 +28,9 @@ function renderStaticData() {
     }
 }
 
-
-
-async function renderDataFromAPI() {
-    const data = await fetch("https://60f6af7118254c00176e03d3.mockapi.io/api/v1/categories")
-        .then(res => res.json())
-        .then(data => data)
-        .catch(e => console.log(e))
-
-    for (let element of data) {
-        const option = document.createElement("option");
-        option.value = element.type
-        option.innerHTML = element.type;
-        dropDown.appendChild(option);
-    }
-
+async function main() {
+    const categories = await fetchJsonData('categories.json')
+    renderData(categories);
 }
 
-renderStaticData()
+main();
