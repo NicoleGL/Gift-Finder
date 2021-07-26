@@ -1,12 +1,5 @@
 const pathToJsons = './jsons/'
 
-async function fetchJsonData(nameOfJson) {
-    const pathToFile = pathToJsons.concat(nameOfJson);
-    const response = await fetch(pathToFile, { 'method': 'get', 'mode': "no-cors" });
-    const data = response.json();
-    return data;
-}
-
 function getRandomElementFromArray(arr) {
     const randomNum = Math.floor(Math.random() * arr.length);
     const result = arr[randomNum]
@@ -38,12 +31,37 @@ function updateProduct(product) {
     updateURL("store-link", product.web_url);
 }
 
+
+function checkCookie(nameOfCookie) {
+    let cookies = document.cookie.split(";");
+
+    for (let cookie of cookies) {
+        if (cookie.includes(nameOfCookie)) {
+            return cookie.split("=")[1];
+        }
+    }
+}
+
+
+
+
 async function main() {
-    const categories = await fetchJsonData("categories.json");
-    const category = getRandomElementFromArray(categories);
+    let category = checkCookie("category");
+    if (category === "all") {
+        const categories = await fetchJsonData("categories.json");
+        category = getRandomElementFromArray(categories);
+    }
 
     const listOfProducts = await fetchJsonData(category.replace(/ /g, "").concat(".json"));
-    const product = getRandomElementFromArray(listOfProducts);
+    const budget = parseInt(checkCookie("budget"));
+    const withinBudget = [];
+    for (let product of listOfProducts) {
+        if (product.retail_price / 100 <= budget) {
+            withinBudget.push(product);
+        }
+    }
+
+    const product = getRandomElementFromArray(withinBudget);
 
     updateProduct(product);
 }
