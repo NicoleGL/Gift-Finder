@@ -58,6 +58,16 @@ html {
     margin-bottom: 80px;
 }
 
+.show {
+    opacity: 1;
+    transition: opacity 2000ms;
+  }
+  
+  .hide {
+    opacity: 0;
+    transition: opacity 2000ms;
+  }
+
 .product-info {
     height: 95%;
     width: 45%;

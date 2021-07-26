@@ -42,8 +42,12 @@ function checkCookie(nameOfCookie) {
     }
 }
 
+const resultDiv = document.getElementById("result");
 
-
+function fadeIn(el) {
+    el.classList.add('show');
+    el.classList.remove('hide');
+}
 
 async function main() {
     const selectedCategory = checkCookie("category").toLowerCase();
@@ -84,6 +88,8 @@ async function main() {
     const product = getRandomElementFromArray(finalList);
 
     updateProduct(product);
+
+    fadeIn(resultDiv);
 }
 
 
