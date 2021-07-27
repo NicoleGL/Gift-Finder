@@ -1,13 +1,6 @@
 const pathToJsons = './jsons/'
 const dropDown = document.getElementById("category");
-
-async function fetchJsonData(nameOfJson) {
-    const pathToFile = pathToJsons.concat(nameOfJson)
-    const response = await fetch(pathToFile, { 'method': 'get', 'mode': "no-cors" })
-    const data = response.json()
-    return data
-
-}
+const continueBtn = document.getElementById("continue-btn");
 
 function capitalizeCategories(categories) {
     const array = [];
@@ -34,3 +27,5 @@ async function main() {
 }
 
 main();
+
+continueBtn.addEventListener("click", () => setCookie("category", dropDown.value));

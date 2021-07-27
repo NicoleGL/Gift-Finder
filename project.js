@@ -1,12 +1,10 @@
-let slider = document.getElementById("slider")
-let budgetText = document.getElementById("budget-text")
-
-function onChange() {
-    if (slider.value === "101") {
-        budgetText.innerHTML = "Any budget";
-    } else {
-        budgetText.innerHTML = `${slider.value}€ or less`;
-    }
+function setCookie(name, value) {
+    document.cookie = `${name}=${value};path=/`;
 }
 
-slider.addEventListener('input', onChange)
+async function fetchJsonData(nameOfJson) {
+    const pathToFile = pathToJsons.concat(nameOfJson);
+    const response = await fetch(pathToFile, { 'method': 'get', 'mode': "no-cors" });
+    const data = response.json();
+    return data;
+}
