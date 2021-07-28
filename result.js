@@ -46,18 +46,29 @@ function checkCookie(nameOfCookie) {
 
 
 async function main() {
-    let category = checkCookie("category");
-    if (category === "all") {
+    const selectedCategory = checkCookie("category");
+    let listOfProducts = [];
+
+    if (selectedCategory === "all") {
         const categories = await fetchJsonData("categories.json");
-        category = getRandomElementFromArray(categories);
+        for (let category of categories) {
+            let products = await fetchJsonData(category.replace(/ /g, "").concat(".json"));
+            listOfProducts = listOfProducts.concat(products);
+        }
+    } else {
+        listOfProducts = await fetchJsonData(selectedCategory.replace(/ /g, "").concat(".json"));
     }
 
-    const listOfProducts = await fetchJsonData(category.replace(/ /g, "").concat(".json"));
     const budget = parseInt(checkCookie("budget"));
-    const withinBudget = [];
-    for (let product of listOfProducts) {
-        if (product.retail_price / 100 <= budget) {
-            withinBudget.push(product);
+    let withinBudget = [];
+
+    if (budget === 101) {
+        withinBudget = listOfProducts;
+    } else {
+        for (let product of listOfProducts) {
+            if (product.retail_price / 100 <= budget) {
+                withinBudget.push(product);
+            }
         }
     }
 
