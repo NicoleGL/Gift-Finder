@@ -46,7 +46,7 @@ function checkCookie(nameOfCookie) {
 
 
 async function main() {
-    const selectedCategory = checkCookie("category");
+    const selectedCategory = checkCookie("category").toLowerCase();
     let listOfProducts = [];
 
     if (selectedCategory === "all") {
