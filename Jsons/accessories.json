@@ -7,6 +7,11 @@
         "product_description": "About the brand: Stylish pieces designed to fit into a modern lifestyle. Brass Approximately 16 long with 2in extender Spring ring clasp closure",
         "brand": "Genevive",
         "category_name": "Necklaces",
+        "character": [
+            "emo",
+            "influencer",
+            "spiritualist"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -54,6 +59,10 @@
         "product_description": "Brown Casual Copper Bangle Bracelets, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Jewelry",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -144,6 +153,10 @@
         "product_description": "Small handbag in faux leather. Zipper at top and wide handle made of faux leather and metal rings. Width 9 1/2 in. Height 6 3/4 in. Depth at base 2 3/4 in. Taffeta lining made from recycled polyester.",
         "brand": "H&M",
         "category_name": "Bags",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -191,6 +204,10 @@
         "product_description": "Multicolor Fashionable Colorblock Long Wallet Purses, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Bags",
+        "character": [
+            "traveller",
+            "influencer"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -302,6 +319,9 @@
         "product_description": "Earrings drop approximately 2.36in Pendant drops approximately 1.25in Approximately 9.5in long Lobster claw clasp closure Housed in a beautiful floral Saachi box, the Infinity Necklace and Earring set makes the perfect gift. The beautiful golden infinity earrings and matching necklace tell the story of a timeless love. We wont tell if you treat yourself to one, too.",
         "brand": "Saachi",
         "category_name": "Earrings",
+        "character": [
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -349,6 +369,10 @@
         "product_description": "Gold Casual Metallic Hoop Earrings, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Earrings",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -439,6 +463,10 @@
         "product_description": "- Stussy - Stock Cuff Beanie - Front embroidered logo - Turn up brim - Color: Black",
         "brand": "Stussy",
         "category_name": "Hats",
+        "character": [
+            "gym rat",
+            "emo"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -529,6 +557,9 @@
         "product_description": "Design details: ribbed cuff 8in shaft 73% cotton, 13% nylon, 13% polyester, 1% spandex Machine wash Imported Please note: All measurements were taken by hand and are approximate; slight variations may occur. Contents of Set: One grey stripes pair One navy monkeys pair One blue/orange geometric pair",
         "brand": "Happy Socks",
         "category_name": "Socks",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -576,6 +607,10 @@
         "product_description": "Black Fashionable Alloy Men Rings, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "Romwe",
         "category_name": "Rings",
+        "character": [
+            "gym rat",
+            "spiritualist"
+        ],
         "is_male": true,
         "is_female": false,
         "price_currency": "USD",
@@ -666,6 +701,10 @@
         "product_description": ".925 sterling silver Ring can be re-sized by any professional jeweler; however, if re-sized, it will not be accepted for return",
         "brand": "Genevive",
         "category_name": "Rings",
+        "character": [
+            "influencer",
+            "spiritualist"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

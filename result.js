@@ -72,7 +72,16 @@ async function main() {
         }
     }
 
-    const product = getRandomElementFromArray(withinBudget);
+    const character = checkCookie("character");
+    let finalList = [];
+
+    for (let product of withinBudget) {
+        if (product.character.includes(character)) {
+            finalList.push(product);
+        }
+    }
+
+    const product = getRandomElementFromArray(finalList);
 
     updateProduct(product);
 }
