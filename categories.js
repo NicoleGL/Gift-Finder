@@ -1,4 +1,4 @@
-const pathToJsons = './jsons/'
+const pathToJsons = './Jsons/'
 const dropDown = document.getElementById("category");
 const continueBtn = document.getElementById("continue-btn");
 
