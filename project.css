@@ -50,6 +50,7 @@ html {
     width: 60%;
     height: 40%;
     display: flex;
+    justify-content: center;
     flex-direction:column;
     flex-wrap: wrap;
     background: white;
@@ -58,15 +59,15 @@ html {
     margin-bottom: 80px;
 }
 
-.show {
+.show :not(.loader) {
     opacity: 1;
-    transition: opacity 2000ms;
-  }
+    transition: opacity 1000ms;
+}
   
-  .hide {
+.hide :not(.loader) {
     opacity: 0;
-    transition: opacity 2000ms;
-  }
+    transition: opacity 1000ms;
+}
 
 .product-info {
     height: 95%;
@@ -92,6 +93,24 @@ html {
     display: flex;
     justify-content: space-between;
 }
+
+.loader {
+    --loader-width: 20px;
+    width: var(--loader-width);
+    height: var(--loader-width);
+    margin-left: -10px ;
+    margin-right: -10px ;
+    z-index: 2;
+    border-top: 3px solid var(--purple);
+    border-bottom: 3px solid var(--purple);
+    border-radius: 50%;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  } 
 
 /*Text*/
 
