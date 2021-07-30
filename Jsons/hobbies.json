@@ -7,6 +7,10 @@
         "product_description": "The Cradled Wood Painting Panel from American Easel offers a firm painting surface supported by a poplar wood cradle. The cradled frame prevents warping and is easy to hang immediately after completing your work. The top quality birch face can support almost any medium and can be used unprimed for a natural look or prepared with a gesso coating for added archival benefits. Create your next acrylic, encaustic or mixed media artwork with a truly blank canvas ready to support your work for years to come. Size: 18\"x24\".",
         "brand": "American Easel",
         "category_name": "Stationery",
+        "character": [
+            "emo",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -50,10 +54,15 @@
         "product_id": "6371840",
         "store_name": "Target",
         "host_name": "target.com",
-        "title": "Mindful Mediations Mandala Coloring Book",
+        "title": "Mindful Meditations Mandala Coloring Book",
         "product_description": "The Crayola Mandala Coloring Book features 40 coloring pages with peaceful mind-soothing mandala designs. Each coloring sheet features intricate line art and connected designs that can be embellished with gel pens, colored pencils, markers and more! Detailed coloring activities are great for relieving stress and instilling a sense of calm and focus! Tear out the perforated pages to easily display your coloring skills. This beautifully rendered book makes a wonderful gift on birthdays, holidays, and everyday gifting occasions for coloring enthusiasts of all ages. Pair with Crayola Colored Pencils or Fine Line Markers (sold separately) for the ultimate coloring experience.",
         "brand": "Crayola",
         "category_name": "Stationery",
+        "character": [
+            "traveller",
+            "spiritualist",
+            "mom"
+        ],
         "is_male": true,
         "is_female": true,
         "price_currency": "USD",
@@ -101,6 +110,10 @@
         "product_description": "75 tasty ways to get the most out of your Ninja FoodiTM―the official companion cookbook! Welcome to the wonderful world of cooking with the Ninja FoodiTM, which combines the speed of a pressure cooker with the quick-crisping action of an air fryer. With the official Ninja FoodiTM Complete Cookbook for Beginners, you can maximize your all-in-one appliance by whipping up lots of fast, flavorful recipes. From Fish and Chips to Barbecue Baby Back Ribs, this comprehensive cookbook includes everything you need to get started serving up delicious, nutritious dishes in minutes. No matter what you’re in the mood for, the Ninja FoodiTM Complete Cookbook for Beginners has what you’re craving! The Ninja FoodiTM Complete Cookbook for Beginners includes: Fast, easy recipes―Discover how to make crowd-pleasing options for breakfast, lunch, and dinner, as well as appetizers, bread, and desserts. Quick-start guidance―Master all the fantastic features of your Ninja FoodiTM so you can learn how to pressure cook, air fry, TenderCrispTM, dehydrate, and more. Essential extras―Get expert tips for chefs of all skill levels that will get you up-and-crisping in a flash. Put mouthwatering meals on your table in no time with the official Ninja FoodiTM Complete Cookbook for Beginners.",
         "brand": "Ninja",
         "category_name": "Books",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -148,6 +161,12 @@
         "product_description": "FUJIFILM - FILM 16445783 INSTAX WIDE 300 CAMERA US EX D",
         "brand": "Fujifilm",
         "category_name": "Film Cameras",
+        "character": [
+            "traveller",
+            "emo",
+            "geek",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -195,6 +214,11 @@
         "product_description": "This Drawing Pencil Assortment by Cretacolor features a softer range of 12 graphite drawing pencils for creating rich black values. The B grade pencils push the shadows deeper and create high contrast and the illusion of depth. The kit also contains a few harder leads primarily used for light outlines and sketching. The set contains 9B, 8B, 7B, 6B, 5B, 4B, 3B, 2B, B, HB, F, and 2H, from softest to hardest respectively. Both the amount of applied pressure and the degree of lead allows artists to control the gradation of values within an artwork. The Drawing Pencil Assortment is packaged in a handy tin for protection and storage.",
         "brand": "CRETACOLOR",
         "category_name": "Stationery",
+        "character": [
+            "emo",
+            "spiritualist",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -242,6 +266,11 @@
         "product_description": "50s-inspired ukulele in a transparent, tinted color-pop finish by Kala. Compact construction is perfect for keeping on hand whenever you want to serenade your faves. Content + Care. Includes ukulele, carrying bag and quick start guide ABS composite plastic Wipe clean Imported Size. Dimensions: 20.75l x 6.25w x 2.25h Weight: 1 lb Shipping package dimensions: 21.4l x 7.5w x 3.1h Shipping package weight: 1.14 lbs",
         "brand": "Kala",
         "category_name": "Mobile Phones",
+        "character": [
+            "geek",
+            "influencer",
+            "spiritualist"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -289,6 +318,10 @@
         "product_description": "Make your very own superhero story to come to life with the newest addition to Piccadilly's sketchbook line – Comic Sketchbook. Modeled after the best-selling Open Bound Sketchbook, the new Comic Sketchbook is a creative’s dream come true–allowing you to sketch, draw or write with its lay open flat ingenious design. Let your imagination run wild and start sketching!",
         "brand": "Piccadilly",
         "category_name": "Stationery",
+        "character": [
+            "geek",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -336,6 +369,10 @@
         "product_description": "You Can Draw guides you step by step through the drawing process from the beginning, building your skills so your drawings are better than ever! Practical advice on using gridlines and wire-frames to create amazing art. Clear step-by-step instructions with easy-to-follow diagrams. Lots of helpful artist’s tips. Discover how easy it is to master this fun and rewarding hobby and create awesome drawings!",
         "brand": "Hinkler Books",
         "category_name": "Books",
+        "character": [
+            "geek",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -383,6 +420,10 @@
         "product_description": "The Franklin Electronic Dartboard features up to 176 game variations and a 15.5\" tournament-size playing area. Franklin Electronic Dartboard - Billiards And Table Tennis at Academy Sports",
         "brand": "Franklin",
         "category_name": "Indoor Games",
+        "character": [
+            "gym rat",
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -430,6 +471,11 @@
         "product_description": "Make gardening chore easier than ever with the Fiskars 3pc DuraFrame Garden Tools Set. These yard tools make quick work of planting seeds, pulling weeds and expanding your garden. Each piece is made with DuraFrame construction for a long-lasting tool you'll reach for season after season. With holes at the end, each piece can easily be stored in your shop, garage or garden shed, keeping your space clutter-free.",
         "brand": "Fiskars",
         "category_name": "Garden",
+        "character": [
+            "influencer",
+            "spiritualist",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

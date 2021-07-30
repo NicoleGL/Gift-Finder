@@ -7,6 +7,9 @@
         "product_description": "Consider a slower, more mindful approach to cooking and eating together. A way to disconnect from the outside worlds distractions and truly connect to each other and yourself. A moment to take the time to enjoy and elevate the experience of every day cooking. For Philip and Mystique co-authors and bloggers, this approach in the kitchen is a way of life. Mystique is the sous to Philips chef, and through her elegant, authentic touches, his delicious dishes come to life. In their debut cook",
         "brand": "Free People",
         "category_name": "Accessories",
+        "character": [
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -54,6 +57,10 @@
         "product_description": "Serving cutlery with a fork and spoon in shiny stainless steel. Length approx. 8 1/2 in.",
         "brand": "H&M",
         "category_name": "Kitchen",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -101,6 +108,10 @@
         "product_description": "This extra-wide chopper minces foods quickly and easily. Chop nuts and candies for baking or ice cream toppings. Prepare onions, peppers, and other veggies for sauces, soups, omelets and so much more. Chop and measure up to 1 cup (200ml) of food at once. The entire unit is dishwasher safe for easy cleaning.",
         "brand": "Prepworks",
         "category_name": "Tools & Gadgets",
+        "character": [
+            "dad",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -148,6 +159,10 @@
         "product_description": "Multicolor Plastic Food Storage Kitchen Storage, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Bags",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -238,6 +253,9 @@
         "product_description": "Gold Stainless Steel Tongs Kitchen Tools, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Beauty",
+        "character": [
+            "mom"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -328,6 +346,10 @@
         "product_description": "Keep the grill master, chef or mixologist clean and protected with this durable denim apron from Outset. This grilling, kitchen or bar accessory is both attractive and functional with its soft 100percent cotton denim material, orange contrast stitching, black cotton straps and antique brass hardware. It is carefully crafted to protect clothes from spills, splatters and grease; perfect for bartending, cooking in the kitchen or at the gril! Its one size fits most design is suitable for both men and women and includes dual shoulder straps that criss-cross and tie in the back, or around the waist. The functional apron is also equipped with a tong/towel strap and two deep front pockets... ready to store all the tools, condiments and accessories needed. Outset yourself in style with our exclusive grillware for outdoor (and indoor) entertaining. To the grill...to the bar...to the kitchen, in style! Pattern: Solid.",
         "brand": "Outset",
         "category_name": "Aprons",
+        "character": [
+            "gym rat",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -375,6 +397,10 @@
         "product_description": "About the brand: For all your kitchen staples. Color/finish: onyx black Delivering power, precision and performance, the newest stand mixer features a 500-watt motor, die-cast metal construction, and 12 speeds that allow for nuance and excellence in performing a variety of preparation tasks. The units tilt-back head allows for easy access to its 5.5-quart mixing bowl, while the included splash guard prevents messy countertops. Also included are a chefs whisk, dough hook, and flat mixing paddle. The mixing bowl and all accessories are dishwasher safe, and the stand mixer is available in red, white and brushed chrome. Additionally, you can purchase a variety of attachments for the unit: a pasta roller and cutter, pasta extruder, meat grinder, and frozen dessert maker. Features & Benefits 5.5-quart capacity, polished stainless steel bowl 500-watt motor Die-cast metal construction 12 speeds for precision mixing Tilt-back head One power outlet for optional attachments Includes chefs whisk, dough hook, flat mixing paddle, and splash guard with pour spout Instruction/Recipe book Limited 3-year warranty Colors: Silver Lining, Onyx, Periwinkle Blue, Ruby Red, White Linen, Robins Egg Optional Attachments: Pasta Extruder, Pasta Roller & Cutters, Ice Cream Maker, Meat Grinder Measures 14.17in(L) x 7.87in(W) x 14.13in(H)in 5.5qt capacity Die Cast Metal/ Stainless Steel 120V Imported Contents of set: Stand and Bowl",
         "brand": "Cuisinart",
         "category_name": "Mixers & Accessories",
+        "character": [
+            "geek",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -422,6 +448,10 @@
         "product_description": "Color/pattern: dark blue Design details: developed after an inspirational conversation with a japanese chef. with two convenient pockets and a wrap around functionality. made in durable canvas. 100% certified organic cotton Measures 61in x 23.6in Machine wash at 68-104 F (20 to 40?). Wash at lowest possible temperatures. Use nature-friendly detergents. Tumble dry at low heat or if needed then use dryer balls to shorten the drying time. Preferable no tumble dry. Hang out to dry. Avoid the use of bleach (alone and in detergent) as this affects the colors. Wash w/ similar colors. No need of prewashing; its organic Imported",
         "brand": "The Organic Company",
         "category_name": "Aprons",
+        "character": [
+            "emo",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -469,6 +499,11 @@
         "product_description": "3 in 1 BBQ Dragon burger press and form makes big burgers, stuffed burgers and sliders - easy and quick! If you love burgers, you'll love this unique tool. Great for families and cookouts. Makes perfect stuffed burgers in seconds by inserting cheese, onions or other fillings. Small form makes perfect sliders without fuss. Large form makes thick, juicy burgers that are perfect every time and only take a second to form. Special low-stick plastic surface and removable form backs make it easy to press out burgers.",
         "brand": "BBQ Dragon",
         "category_name": "Kitchen",
+        "character": [
+            "gym rat",
+            "emo",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -516,6 +551,9 @@
         "product_description": "Whether you're lifting a hot grill grate, adjusting charcoal or flipping a juicy flank steak, work like a pro on your grill without worrying about burnt hands with the BBQ Extreme Heat Resistant Grill Gloves from BBQ Dragon. Crafted from heat-resistant aramid fabric, these barbecue gloves feature cotton lining on the inside that feels soft against your hands and keeps them soft and dry. Not just for grilling, you can also wear these wear-resistant grilling gloves while handling hot pots or starting a fireplace to stay protected. Pattern: Solid.",
         "brand": "BBQ Dragon",
         "category_name": "Pot Holders",
+        "character": [
+            "emo"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

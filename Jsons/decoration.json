@@ -7,6 +7,10 @@
         "product_description": "Design details: Add a touch of color to your home decor with this vase. Featuring a blue and metallic color palette, these vases are perfect for holding flowers or simply being displayed on an accent table. Measures 2.95in x 2.95in x 22.83in Hand wash Imported",
         "brand": "Godinger",
         "category_name": "Vases",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -54,6 +58,10 @@
         "product_description": "Welcome Friends Garden Gnome Stone - Exhart",
         "brand": "Exhart",
         "category_name": "Garden",
+        "character": [
+            "geek",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -101,6 +109,10 @@
         "product_description": "This whimsical light up unicorn water globe is a great decoration for all unicorn and rainbow lovers of all ages! The snowglobe requires 3 AAA batteries to light up the unicorn in multi-colored (red, blue and yellow) LED lights. Simply shake the snow globe to get the multi-colored glitter to \"snow\" and sparkle in the light. This is not a toy - for decoration only. For ages 14 and up. Snow globe does not play music.",
         "brand": "Decor Craft",
         "category_name": "Decor",
+        "character": [
+            "traveller",
+            "spiritualist"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -148,6 +160,10 @@
         "product_description": "About the brand: Finely-crafted home furnishings with a unique flair. Color/pattern: grey Measures 15.8in x 9.5in x 13in 55% plastic / 5% metal / 40% cement Imported",
         "brand": "Safavieh",
         "category_name": "Decor",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -195,6 +211,9 @@
         "product_description": "Measures 15in x 12in x 43in 100% iron Some assembly required Wipe clean with soft cloth Made in Canada",
         "brand": "Uma Enterprises",
         "category_name": "Garden",
+        "character": [
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -242,6 +261,10 @@
         "product_description": "Hand Painted White Flowers Oil Painting This High-quality Canvas Oil Paintings are printed with high-quality, durable materials and will be a great add-on for your home/office or anywhere else. Choose from different designs and 3, 4, or 5 pieces with different sizes of paintings, with such a great selection you will for sure find the one for you! Your canvas will come ready to hang and be enjoyed for years. It?s a wonderful wall decoration for home, office, hotel, coffeehouse, bar, canteen, and hall, enrich your walls and refresh your life with elegance. Measures 12in x 8.5; 3 panels Imported",
         "brand": "Wieco Art",
         "category_name": "Artwork",
+        "character": [
+            "influencer",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -289,6 +312,11 @@
         "product_description": "Teddy Bear Faux Fur Throw Brown - Love 2 Design Pattern: Solid.",
         "brand": "Love 2 Design",
         "category_name": "Throws",
+        "character": [
+            "traveller",
+            "emo",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -336,6 +364,10 @@
         "product_description": "Set of 20 all-natural bamboo incense sticks handmade in California by the husband + wife team at Norden. Formulated with essential oils to evoke scents from the California coastline + packaged with fun prints to accent your side table, bathroom or dresser-top! Scents. Joshua Tree: With notes of bright desert herbs + eucalyptus, featuring deep wood tones Idyllwild: With notes of cedarwood, sage, vetiver + citrus evocative of herbal desert sagebrush + cedar forests Ojai: With notes of frankincense",
         "brand": "Norden",
         "category_name": "Artwork",
+        "character": [
+            "spiritualist",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -383,6 +415,11 @@
         "product_description": "Measures 10in x 3in x 11in 15% iron, 35% clock, 50% magnifera indica Wipe clean Imported",
         "brand": "Uma",
         "category_name": "Clocks",
+        "character": [
+            "geek",
+            "dad",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -430,6 +467,10 @@
         "product_description": "As the white lava passes through the multi-colored ColormaxTM glass globe like the real flow of molten lava, it absorbs the different colors and changes tone. The hot volcano graphics on the base and cap match perfectly with the hot lava inside the lamp. It’s like having a mini volcano in your room (without the dangers of molten lava). Watch the relaxing motion and enjoy this hot version of a timeless LAVA lamp.",
         "brand": "Lava Lite",
         "category_name": "Table Lamps",
+        "character": [
+            "emo",
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

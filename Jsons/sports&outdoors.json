@@ -7,6 +7,9 @@
         "product_description": "Created in collaboration with Rokit. Crewneck. Sleeveless. Striped edges. Printed front and back panels. Embroidered details",
         "brand": "GUESS SPORT",
         "category_name": "Shirts",
+        "character": [
+            "dad"
+        ],
         "is_male": true,
         "is_female": false,
         "price_currency": "USD",
@@ -118,6 +121,9 @@
         "product_description": "Keep score in the Eastbay Basketball Scorebook. 30 game scoring sheets. Includes season summary sheet, player directory, scoring instructions, sample scoring sheet, and a team summary sheet. Durable cover with spiral binding. Sz: 12 x 9.5. Eastbay Basketball Scorebook.",
         "brand": null,
         "category_name": "Sport & Outdoor",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -165,6 +171,9 @@
         "product_description": "Pink TPR Plain Yoga Sport Equipment, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Activewear",
+        "character": [
+            "influencer"
+        ],
         "is_male": true,
         "is_female": true,
         "price_currency": "USD",
@@ -360,6 +369,9 @@
         "product_description": "The Molten I Love Volleyball Mini Volleyball has a machine-stitched polyurethane cover. Molten I Love Volleyball Mini Volleyball - Volleyball Equipment at Academy Sports",
         "brand": "Molten",
         "category_name": "Sport & Outdoor",
+        "character": [
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -407,6 +419,9 @@
         "product_description": "The Rollors Outdoor Yard Game has players roll disks at the goal and points are awarded to the player that positions their disks closest to the goal. Rollors Outdoor Yard Game - Outdoor Games at Academy Sports",
         "brand": "Rollors",
         "category_name": "Outdoor Recreation",
+        "character": [
+            "gym rat"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -454,6 +469,9 @@
         "product_description": "The Kryptonics Olympic 31 in Skateboard features a 7-poly NE maple deck and 5-inch polished aluminum trucks. Kryptonics Olympic 31 in Skateboard - Skateboard And Accessoriesories at Academy Sports",
         "brand": "Kryptonics",
         "category_name": "Outdoor Recreation",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -501,6 +519,9 @@
         "product_description": "Pink Sporty Plain Running Shoes Sneakers, size features are:Bust: ,Length: ,Sleeve Length:",
         "brand": "SHEIN",
         "category_name": "Sneakers",
+        "character": [
+            "dad"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -654,6 +675,9 @@
         "product_description": "The Combat Sports International Ringside Boxing Leather Double End Punching Bag is made of leather and features extra-long top and bottom loops. Combat Sports International Ringside Boxing Leather Double End Punching Bag - Boxing And Accessories at Academy Sports",
         "brand": "Combat Sports International",
         "category_name": "Bags",
+        "character": [
+            "gym rat"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -701,6 +725,9 @@
         "product_description": "The BCGTM 1 lb Hand Weights 2-Pack are made of soft nylon jersey material and each feature a reflective stripe. BCG 1 lb Hand Weights 2-Pack Gray/Pink - Hand Exer. Equip. at Academy Sports",
         "brand": "BCG",
         "category_name": "Exercise & Fitness",
+        "character": [
+            "gym rat"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -748,6 +775,9 @@
         "product_description": "The Franklin MLB USA Fielding Glove with Ball includes a ready-to-play glove with Dura-Bond lacing and a baseball. Franklin MLB USA Fielding Glove with Ball, 9.5 - Sball/Bball Glove And Mitt at Academy Sports",
         "brand": "Franklin",
         "category_name": "Gloves",
+        "character": [
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

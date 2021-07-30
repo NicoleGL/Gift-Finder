@@ -7,6 +7,9 @@
         "product_description": "The stakes just got higher and Tic Tac Toe just got fun. Tic Tac Shot! transforms the classic boredom buster into a risky grown-up game of skill.Game . Includes: 1 board & 9 shot glassesMade of glassHand wash recommendedGreat for parties! Great gift! Measures 2.5in x 10in x 10in Made from glass Dishwasher Safe Imported Contents of set: 1 board & 9 shot glasses",
         "brand": "True",
         "category_name": "Gaming Old",
+        "character": [
+            "gym rat"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -54,6 +57,9 @@
         "product_description": "Pictionary Man is the all-new way to play Pictionary that combines drawing, electronic clues, and interactive accessories for a whole new way to play. Electronic Pictionary Man Board Game",
         "brand": "Mattel",
         "category_name": "Electronics",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -101,6 +107,9 @@
         "product_description": "The Mainstreet Classics Cribbage Game Set features a wooden game board and slotted storage channel. Mainstreet Classics Cribbage Game Set - Billiards And Table Tennis at Academy Sports",
         "brand": "Mainstreet Classics",
         "category_name": "Indoor Games",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -148,6 +157,9 @@
         "product_description": "Get off the couch and get moving with fun, boxing-based rhythmic exercises set to the instrumental beats of songs by popular artists. You can personalize your workouts by selecting from different fitness goals. Train your way, whether youre on your own, with a friend, at home, or on the go! Now you can work out anytime, anywhere on the Nintendo Switch system! Fitness Boxing",
         "brand": "Nintendo",
         "category_name": "Activewear",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -195,6 +207,9 @@
         "product_description": "When life on Earth isnt enough for young rancher Beatrix LeBeau, she sets her sights on a life light years away. As the new rancher on the Far, Far Range, LeBeau tries her hand at slime ranching in this first-person sandbox experience for the PS4. Make your Slime Ranch profitable and use your money to upgrade tools, create new gadgets, expand your property, and build more corrals for different types of slime. Create your slime paradise by crafting decorations, creating hybrid slimes, and explor",
         "brand": "Skybound Games",
         "category_name": "Dresses",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -242,6 +257,9 @@
         "product_description": "Experience a realistic hunting adventure: over 36 different animals of all sizes located in their natural habitats. Hunt in one of 3 major regions, comprised of multiple subregions for tons of variety and content Partner with your Dog companion: introducing a brand-new hunting Dog mechanic to assist you on your hunt; command your Dog to track, freeze, Follow and more Enjoy the best of hunting brands: using all Licensed Gear from top hunting brands around the world; customize your player with 65",
         "brand": "Maximum Games",
         "category_name": "Video",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -289,6 +307,10 @@
         "product_description": "Now you can enjoy the I Spy Memory Game, the game of picture riddles, based on the bestselling book series of the same name. Match picture pairs and find riddle solutions in this classic memory game that features durable cardboard cards. I Spy Memory Game Tin",
         "brand": "Briarpatch",
         "category_name": "Memory",
+        "character": [
+            "geek",
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -336,6 +358,9 @@
         "product_description": "The Large Beer Pong Outdoor Game Set for Kids and Adults with 12 Buckets, 2 Balls, Tote Bag by Hey! Play! is easy to set-up, play and store, making fun just a toss away. This is the ultimate beach, poolside, backyard, or tailgating game that's perfect for kids and adults of all ages, and can be played with an adult twist by using adult libations.",
         "brand": "Hey! Play!",
         "category_name": "Outdoor Recreation",
+        "character": [
+            "gym rat"
+        ],
         "is_male": true,
         "is_female": true,
         "price_currency": "USD",
@@ -383,6 +408,10 @@
         "product_description": "The Ladder Toss Outdoor Game, Two PCV Game Sets with 6 Bolas with Carrying Case for Kids and Adults by Hey! Play! is a great outdoor game for the beach, backyard, tailgate, family reunion or backyard party for players of all ages. Create long lasting memories with this fun, outdoor game!",
         "brand": "Hey! Play!",
         "category_name": "Outdoor Recreation",
+        "character": [
+            "dad",
+            "mom"
+        ],
         "is_male": true,
         "is_female": true,
         "price_currency": "USD",
@@ -430,6 +459,9 @@
         "product_description": "Action, Adventure M - Mature",
         "brand": "505 Games",
         "category_name": "Game Controllers",
+        "character": [
+            "geek"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",

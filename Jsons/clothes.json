@@ -1,158 +1,5 @@
 [
     {
-        "product_id": "5361370",
-        "store_name": "Shein",
-        "host_name": "shein.com",
-        "title": "Plus V-Neck Top",
-        "product_description": "Dusty Purple Casual Short Sleeve Cotton Plain Slight Stretch Summer Plus Size T-shirts, size features are:Bust: ,Length: Regular ,Sleeve Length:Short Sleeve",
-        "brand": "SHEIN",
-        "category_name": "Clothing",
-        "is_male": false,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 1000,
-        "sale_price": 1000,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/600a307eeab7d89c33517d3969a1e72c",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/8897d058aee419c1039897a944ac8359",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/9595a8989087af26141743045e50c6f2",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/91c9ee1921c8350ec9f16a4a267454c0",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/5fc4d545bb95121c3cd100db2c0a1bfc",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/acdd10f38b2524788b65334572182546"
-        ],
-        "web_url": "https://us.shein.com/Plus-V-Neck-Top-p-2006633-cat-1890.html",
-        "mobile_url": null,
-        "affiliate_url": "https://www.anrdoezrs.net/click-9252602-13311199?url=https%3A%2F%2Fus.shein.com%2FPlus-V-Neck-Top-p-2006633-cat-1890.html%3Fref%3Dcj%26affiliateID%3D%3CPID%3E-%3CCID%3E%26url_from%3Dcj.com%26utm_campaign%3Dcjprofeed210607_swtee07201218164",
-        "klarna_merchant_id": "N102971",
-        "feed_key": [
-            "swtee07201218164"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/shein.com/600a307eeab7d89c33517d3969a1e72c",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/shein.com/600a307eeab7d89c33517d3969a1e72c",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/600a307eeab7d89c33517d3969a1e72c",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": [
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/8897d058aee419c1039897a944ac8359",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/8897d058aee419c1039897a944ac8359",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/8897d058aee419c1039897a944ac8359",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            },
-            {
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/9595a8989087af26141743045e50c6f2",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/9595a8989087af26141743045e50c6f2",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/9595a8989087af26141743045e50c6f2",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                }
-            },
-            {
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/91c9ee1921c8350ec9f16a4a267454c0",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/91c9ee1921c8350ec9f16a4a267454c0",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/91c9ee1921c8350ec9f16a4a267454c0",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            },
-            {
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/5fc4d545bb95121c3cd100db2c0a1bfc",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/5fc4d545bb95121c3cd100db2c0a1bfc",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/5fc4d545bb95121c3cd100db2c0a1bfc",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            },
-            {
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/acdd10f38b2524788b65334572182546",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/acdd10f38b2524788b65334572182546",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/acdd10f38b2524788b65334572182546",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                }
-            }
-        ]
-    },
-    {
         "product_id": "5727057",
         "store_name": "H&M",
         "host_name": "hm.com",
@@ -160,6 +7,10 @@
         "product_description": "Boxer shorts in stretch organic cotton jersey with flatlock seams for improved comfort. Slightly longer legs, elasticized waistband, and lined front.",
         "brand": "H&M",
         "category_name": "Clothing",
+        "character": [
+            "gym rat",
+            "dad"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -207,6 +58,12 @@
         "product_description": "Kids Exclusive. Sleeveless dress in cotton slub jersey with gathered tiers. Extra-narrow shoulder straps. Unlined.",
         "brand": "H&M",
         "category_name": "Dresses",
+        "character": [
+            "traveller",
+            "geek",
+            "influencer",
+            "spiritualist"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -254,6 +111,9 @@
         "product_description": "Color/pattern: aged copper Approximately 26in from shoulder to hem Model is 511 and is wearing a size small/medium. Measurements may vary slightly by size. Design details: oversized cut with scoop neck 100% linen Hand wash Imported",
         "brand": "Yfb Clothing",
         "category_name": "T-shirts",
+        "character": [
+            "mom"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -301,6 +161,9 @@
         "product_description": "Made with 9% recycled polyester. Soft knit sweatshirt. Long sleeves with banded cuffs. Hood. Gap logo at front. Certain styles have dip-dye pattern. This season, Gap fleece has diverted 7. 6 million plastic bottles from the landfill. We reuse materials whenever we can to help minimize our impact on the planet because we believe less means more. Look inside each garment to learn about its recycled content.",
         "brand": "Gap",
         "category_name": "Clothing",
+        "character": [
+            "gym rat"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -353,6 +216,10 @@
         "product_description": "Shorts in woven fabric with a high waist. Decorative buttons at waistband, concealed zipper at one side, and diagonal side pockets. Straight legs with pleats at front.",
         "brand": "H&M",
         "category_name": "Dresses",
+        "character": [
+            "emo",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -400,6 +267,10 @@
         "product_description": "Short dress in woven fabric. Collar, buttons at top, and double-layered yoke with gathered seams at shoulders and back. Long sleeves and wide cuffs with buttons. Seam at waist with narrow elastic at back and a flared skirt. Lined. Made partly from recycled polyester.",
         "brand": "H&M",
         "category_name": "Dresses",
+        "character": [
+            "emo",
+            "spiritualist"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
@@ -440,159 +311,6 @@
         "other_images": null
     },
     {
-        "product_id": "5537094",
-        "store_name": "Shein",
-        "host_name": "shein.com",
-        "title": "Plus Ripped Tee Dress",
-        "product_description": "White Casual Short Sleeve Cotton Plain Tee Slight Stretch Summer Plus Size Dresses, size features are:Bust: ,Length: Short ,Sleeve Length:Short Sleeve",
-        "brand": "SHEIN",
-        "category_name": "Clothing",
-        "is_male": false,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 1400,
-        "sale_price": 1400,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/0c05ade794f5edec2cb046a814eba518",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/21edc6c6025e20e5eaaee54b4271b039",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/e5f6501beae104c02f044842e83d4872",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/4b29931fc1dd52f5c6d56f50d4b3920d",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/32c59854513ac3afeff068402ecb4e98",
-            "https://img.klarnacdn.net/2/thumbnail/shein.com/923a1e396626bb0f3c30b9826d94dac1"
-        ],
-        "web_url": "https://us.shein.com/Plus-Ripped-Tee-Dress-p-2696454-cat-1889.html",
-        "mobile_url": null,
-        "affiliate_url": "https://www.jdoqocy.com/click-9252602-13311199?url=https%3A%2F%2Fus.shein.com%2FPlus-Ripped-Tee-Dress-p-2696454-cat-1889.html%3Fref%3Dcj%26affiliateID%3D%3CPID%3E-%3CCID%3E%26url_from%3Dcj.com%26utm_campaign%3Dcjprofeed210616_swdress07210514990",
-        "klarna_merchant_id": "N102971",
-        "feed_key": [
-            "swdress07210514990"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/shein.com/0c05ade794f5edec2cb046a814eba518",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/shein.com/0c05ade794f5edec2cb046a814eba518",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/0c05ade794f5edec2cb046a814eba518",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": [
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/21edc6c6025e20e5eaaee54b4271b039",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/21edc6c6025e20e5eaaee54b4271b039",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/21edc6c6025e20e5eaaee54b4271b039",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            },
-            {
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/e5f6501beae104c02f044842e83d4872",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/e5f6501beae104c02f044842e83d4872",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/e5f6501beae104c02f044842e83d4872",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                }
-            },
-            {
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/4b29931fc1dd52f5c6d56f50d4b3920d",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/4b29931fc1dd52f5c6d56f50d4b3920d",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/4b29931fc1dd52f5c6d56f50d4b3920d",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                }
-            },
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/32c59854513ac3afeff068402ecb4e98",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/32c59854513ac3afeff068402ecb4e98",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/32c59854513ac3afeff068402ecb4e98",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                }
-            },
-            {
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/shein.com/923a1e396626bb0f3c30b9826d94dac1",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/shein.com/923a1e396626bb0f3c30b9826d94dac1",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/923a1e396626bb0f3c30b9826d94dac1",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                }
-            }
-        ]
-    },
-    {
         "product_id": "4181658",
         "store_name": "Gilt",
         "host_name": "gilt.com",
@@ -600,6 +318,10 @@
         "product_description": "Color/pattern: cedar wood Jupiter Approximately 25in from shoulder to hem Model is 511 and is wearing a size medium. Measurements may vary slightly by size. Design details: roll neck and ribbed trim 100% cotton Hand wash Imported",
         "brand": "Yfb Clothing",
         "category_name": "T-shirts",
+        "character": [
+            "gym rat",
+            "influencer"
+        ],
         "is_male": null,
         "is_female": null,
         "price_currency": "USD",
@@ -647,6 +369,9 @@
         "product_description": "- R13 - Malibuboy T-shirt - Short sleeves - Ribbed crewneck - R13 surf graphic on front and back - Cotton jersey in White - 100% Cotton - Machine wash cold",
         "brand": "R13",
         "category_name": "T-shirts",
+        "character": [
+            "gym rat"
+        ],
         "is_male": false,
         "is_female": true,
         "price_currency": "USD",
