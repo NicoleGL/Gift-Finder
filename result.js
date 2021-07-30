@@ -1,10 +1,19 @@
 const pathToJsons = './Jsons/'
 
+//Array functions
+
 function getRandomElementFromArray(arr) {
     const randomNum = Math.floor(Math.random() * arr.length);
     const result = arr[randomNum]
     return result;
 }
+
+function removeFromArray(el, array) {
+    const index = array.indexOf(el);
+    array.splice(index, 1);
+}
+
+//Functions to update the product
 
 function updateText(el, text) {
     document.getElementById(el).innerHTML = text;
@@ -32,6 +41,32 @@ function updateProduct(product) {
 }
 
 
+
+function getAProduct() {
+    const product = getRandomElementFromArray(finalList);
+    if (product) {
+        updateProduct(product);
+        removeFromArray(product, finalList);
+    } else {
+        //Remove everything and add error message (if there isn't one)
+        if (document.getElementById("error-message") === null) {
+            hideElement("photo-and-link");
+            hideElement("product-info");
+
+            const node = document.createTextNode("There are no more products with these characteristics")
+            const noProductsMsg = document.createElement("p");
+            noProductsMsg.appendChild(node);
+            noProductsMsg.setAttribute("id", "error-message");
+
+            resultDiv.appendChild(noProductsMsg);
+            resultDiv.classList.add("center-text");
+        }
+    }
+
+}
+
+//Cookie functions
+
 function checkCookie(nameOfCookie) {
     let cookies = document.cookie.split(";");
 
@@ -42,6 +77,8 @@ function checkCookie(nameOfCookie) {
     }
 }
 
+//To fade in the result
+
 const resultDiv = document.getElementById("result");
 
 function fadeIn(el) {
@@ -49,25 +86,28 @@ function fadeIn(el) {
     el.classList.remove('hide');
 }
 
+//To make the loader appear and disappear
+
 const loader = document.getElementById("loader");
 
 function showElement(el) {
-    el.style.display = "block";
+    document.getElementById(el).style.display = "block";
 }
 
 function hideElement(el) {
-    el.style.display = "none";
+    document.getElementById(el).style.display = "none";
 }
 
-const randomizeAgainBtn = document.getElementById("randomize-again");
 
-randomizeAgainBtn.addEventListener("click", main);
+
+let finalList = [];
 
 async function main() {
+
     const selectedCategory = checkCookie("category").toLowerCase();
     let listOfProducts = [];
 
-    showElement(loader);
+    showElement("loader");
     if (selectedCategory === "all") {
         const categories = await fetchJsonData("categories.json");
         for (let category of categories) {
@@ -77,7 +117,7 @@ async function main() {
     } else {
         listOfProducts = await fetchJsonData(selectedCategory.replace(/ /g, "").concat(".json"));
     }
-    hideElement(loader);
+    hideElement("loader");
 
     const budget = parseInt(checkCookie("budget"));
     let withinBudget = [];
@@ -93,7 +133,7 @@ async function main() {
     }
 
     const character = checkCookie("character");
-    let finalList = [];
+
 
     for (let product of withinBudget) {
         if (product.character.includes(character)) {
@@ -101,12 +141,15 @@ async function main() {
         }
     }
 
-    const product = getRandomElementFromArray(finalList);
-
-    updateProduct(product);
+    getAProduct();
 
     fadeIn(resultDiv);
 }
 
 
 main();
+
+
+
+const randomizeAgainBtn = document.getElementById("randomize-again");
+randomizeAgainBtn.addEventListener("click", getAProduct);
