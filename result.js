@@ -10,7 +10,9 @@ function getRandomElementFromArray(arr) {
 
 function removeFromArray(el, array) {
     const index = array.indexOf(el);
-    array.splice(index, 1);
+    if (index !== -1) {
+        array.splice(index, 1);
+    }
 }
 
 //Functions to update the product
@@ -48,7 +50,7 @@ function getAProduct() {
         updateProduct(product);
         removeFromArray(product, finalList);
     } else {
-        //Remove everything and add error message (if there isn't one)
+        // Remove everything and add error message (if there isn't one)
         if (document.getElementById("error-message") === null) {
             hideElement("photo-and-link");
             hideElement("product-info");
@@ -88,14 +90,18 @@ function fadeIn(el) {
 
 //To make the loader appear and disappear
 
-const loader = document.getElementById("loader");
-
-function showElement(el) {
-    document.getElementById(el).style.display = "block";
+function showElement(ID) {
+    let element = document.getElementById(ID);
+    if (element !== null) {
+        element.style.display = "block";
+    }
 }
 
-function hideElement(el) {
-    document.getElementById(el).style.display = "none";
+function hideElement(ID) {
+    let element = document.getElementById(ID);
+    if (element !== null) {
+        element.style.display = "none";
+    }
 }
 
 
