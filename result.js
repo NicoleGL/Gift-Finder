@@ -42,13 +42,32 @@ function checkCookie(nameOfCookie) {
     }
 }
 
+const resultDiv = document.getElementById("result");
 
+function fadeIn(el) {
+    el.classList.add('show');
+    el.classList.remove('hide');
+}
 
+const loader = document.getElementById("loader");
+
+function showElement(el) {
+    el.style.display = "block";
+}
+
+function hideElement(el) {
+    el.style.display = "none";
+}
+
+const randomizeAgainBtn = document.getElementById("randomize-again");
+
+randomizeAgainBtn.addEventListener("click", main);
 
 async function main() {
     const selectedCategory = checkCookie("category").toLowerCase();
     let listOfProducts = [];
 
+    showElement(loader);
     if (selectedCategory === "all") {
         const categories = await fetchJsonData("categories.json");
         for (let category of categories) {
@@ -58,6 +77,7 @@ async function main() {
     } else {
         listOfProducts = await fetchJsonData(selectedCategory.replace(/ /g, "").concat(".json"));
     }
+    hideElement(loader);
 
     const budget = parseInt(checkCookie("budget"));
     let withinBudget = [];
@@ -84,10 +104,9 @@ async function main() {
     const product = getRandomElementFromArray(finalList);
 
     updateProduct(product);
+
+    fadeIn(resultDiv);
 }
 
 
 main();
-
-
-
