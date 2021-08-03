@@ -59,6 +59,10 @@ html {
     margin-bottom: 80px;
 }
 
+.center-text {
+    text-align: center;
+}
+
 .show :not(.loader) {
     opacity: 1;
     transition: opacity 1000ms;
