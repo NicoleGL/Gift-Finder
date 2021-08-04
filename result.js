@@ -116,10 +116,8 @@ async function main() {
     showElement("loader");
     if (selectedCategory === "all") {
         const categories = await fetchJsonData("categories.json");
-        for (let category of categories) {
-            let products = await fetchJsonData(category.replace(/ /g, "").concat(".json"));
-            listOfProducts = listOfProducts.concat(products);
-        }
+        const promises = categories.map((category) => fetchJsonData(category.replace(/ /g, "").concat(".json")));
+        listOfProducts = await Promise.all(promises).then(data => data.flat());
     } else {
         listOfProducts = await fetchJsonData(selectedCategory.replace(/ /g, "").concat(".json"));
     }
