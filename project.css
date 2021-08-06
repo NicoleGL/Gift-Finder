@@ -109,7 +109,7 @@ html {
   grid-template-rows: repeat(12, 1fr);
 }
 
-.all-categories {
+.all-button {
   grid-column: 5 / span 2;
   grid-row: 7 / span 2;
   display: flex;
@@ -117,11 +117,11 @@ html {
   align-items: center;
 }
 
-.all-categories:hover {
+.all-button:hover {
   background: var(--black-hover);
 }
 
-.all-categories:active {
+.all-button:active {
   filter: none;
 }
 
@@ -404,6 +404,10 @@ a {
   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.black-selected {
+  filter: none;
+}
+
 .character-button {
   padding: 0;
   width: 15%;
@@ -486,22 +490,18 @@ a {
 /*Drop-down*/
 
 .select-div {
-  width: 100%;
-  min-width: 15ch;
-  max-width: 30ch;
   height: 40px;
   border: none;
   border-radius: 20px;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   padding: 0.25em 0.5em;
-  font-size: 25px;
+  font-size: 16px;
   cursor: pointer;
   background-color: #fff;
   background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
-  display: grid;
+  display: none;
   grid-template-areas: "select";
   align-items: center;
-  margin-bottom: 200px;
   text-align-last: center;
 }
 
@@ -549,6 +549,10 @@ select {
   body {
     overflow: hidden;
   }
+  a {
+    font-size: 16px;
+  }
+
   .main-div {
     --border-size: 30px;
   }
@@ -563,7 +567,6 @@ select {
     margin-right: 5px;
   }
   .start-button {
-    font-size: 16px;
     padding: 15px 40px;
   }
   .display-of-products {
@@ -574,5 +577,30 @@ select {
   }
   .below2 {
     margin-bottom: 8%;
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 20%;
+  }
+  .two-buttons-div {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .return-button {
+    padding: 15px 66px;
+  }
+  .continue-button {
+    padding: 15px 60px;
+    margin-bottom: 10px;
+  }
+
+  .circle-of-categories {
+    display: none;
+  }
+  .select-div {
+    display: grid;
+    width: 60%;
   }
 }

@@ -109,21 +109,16 @@ function hideElement(ID) {
 let finalList = [];
 
 async function main() {
-  const selectedCategory = checkCookie("category").toLowerCase();
+  const selectedCategory = checkCookie("category").split(",");
   let listOfProducts = [];
 
   showElement("loader");
-  if (selectedCategory === "all") {
-    const categories = await fetchJsonData("categories.json");
-    const promises = categories.map((category) =>
-      fetchJsonData(category.replace(/ /g, "").concat(".json"))
+  const promises = selectedCategory.map((category) => {
+    return fetchJsonData(
+      category.toLowerCase().replace(/ /g, "").concat(".json")
     );
-    listOfProducts = await Promise.all(promises).then((data) => data.flat());
-  } else {
-    listOfProducts = await fetchJsonData(
-      selectedCategory.replace(/ /g, "").concat(".json")
-    );
-  }
+  });
+  listOfProducts = await Promise.all(promises).then((data) => data.flat());
   hideElement("loader");
 
   const budget = parseInt(checkCookie("budget"));
