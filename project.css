@@ -5,13 +5,16 @@ body {
     width: 100%;
     margin: 0px; 
     background-color: #FFE9F1;
+    overflow: hidden;
 }
 
 html {
     height: 100vh;
+    overflow: hidden;
 }
 
 :root {
+    --black-hover: #1c1c1c;
     --purple: #8E5067;
 }
 
@@ -27,6 +30,65 @@ html {
     border-image: url(pattern2.png) 33% round;
     height:  calc(100% - 2 * var(--border-size));
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.display-of-products {
+    width: 100%;
+    --display-height: 100px;
+    height: var(--display-height);
+    background: white;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    z-index: -1;
+    object-fit: contain;
+}
+
+.above {
+    margin-top: 3%;
+    animation: left-to-right 20s linear infinite;
+}
+
+.above2 {
+    transform: translate(-100%);
+    margin-top: calc(-1 * var(--display-height));
+    animation: left-to-right2 20s linear infinite;
+    z-index: -2;
+}
+
+@keyframes left-to-right {
+    100% {
+        transform: translate(100%);
+    }
+}
+
+@keyframes left-to-right2 {
+    100% {
+        transform: translate(0%);
+    }
+}
+
+.below {
+    margin-bottom: calc(-1 * var(--display-height));
+    animation: right-to-left 20s linear infinite;
+}
+
+.below2 {
+    margin-bottom: 3%;
+    transform: translate(100%);
+    animation: right-to-left2 20s linear infinite;
+}
+
+@keyframes right-to-left {
+    100% {
+        transform: translate(-100%);
+    }
+}
+
+@keyframes right-to-left2 {
+    100% {
+        transform: translate(0%);
+    }
 }
 
 .two-buttons-div {
@@ -124,14 +186,17 @@ html {
     font-weight: 400;
     text-align: center;
     margin-bottom: 15px;
-    margin-top: 0;
+}
+
+.main {
+    margin-top: auto;
 }
 
 .subtitle {
-    font-size: 30px;
+    font-size: 25px;
     font-family: Petrona;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     margin-top: 0px;
 }
 
@@ -146,6 +211,12 @@ html {
 }
 
 /*Images*/
+
+.display-image {
+    height: var(--display-height);
+    width: auto;
+    object-fit: contain;
+}
 
 .icon {
     width: 70px;
@@ -173,14 +244,26 @@ html {
 /*Buttons*/
 
 a {
-    font-size: 30px;
+    font-size: 25px;
     font-family: Petrona;
     color: white;
     text-decoration: none;
     background-color: black;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 20px;
+}
+
+.start-button {
+    margin-bottom: auto;
     padding: 20px 208px;
+}
+
+.start-button:hover {
+    background-color: var(--black-hover);
+}
+
+.start-button::before {
+    content: icon;
 }
 
 .return-button {
@@ -335,8 +418,34 @@ select {
     src: url(Petrona-VariableFont_wght.ttf);
 }
 
-@media only screen and (max-width: 650px) {
-    a {
-        padding: 20px 90px;
+@media only screen and (max-width: 700px) {
+    body {
+        overflow: hidden;
+    }
+    .main-div {
+        --border-size: 30px;
+    }
+    .title {
+        font-size: 30px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .subtitle {
+        font-size: 16px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .start-button {
+        font-size: 16px;
+        padding: 15px 40px;
+    }
+    .display-of-products {
+        --display-height: 60px;
+    }
+    .above {
+        margin-top: 8%;
+    }
+    .below2 {
+        margin-bottom: 8%;
     }
 }
