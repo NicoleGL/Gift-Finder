@@ -94,7 +94,7 @@ html {
 }
 
 .two-buttons-div {
-  margin-bottom: 6%;
+  margin-bottom: 70px;
   margin-top: auto;
   display: flex;
   justify-content: space-around;
@@ -189,7 +189,15 @@ html {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-top: 40px;
+  margin-top: auto;
+}
+
+.scrollable {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
 }
 
 .result {
@@ -402,7 +410,7 @@ a {
 }
 
 .selected {
-  filter: none;
+  filter: none !important;
   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -432,11 +440,6 @@ a {
 
 .character-button:active {
   filter: none;
-}
-
-:target {
-  filter: none;
-  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .store-link {
@@ -618,6 +621,7 @@ select {
   .two-buttons-div {
     flex-direction: column-reverse;
     align-items: center;
+    margin-bottom: 10px;
   }
   .return-button {
     padding: 15px 66px;
@@ -627,12 +631,48 @@ select {
     margin-bottom: 10px;
   }
 
+  .slider {
+    width: 80%;
+    height: 12px;
+  }
+  .slider::-webkit-slider-thumb {
+    width: 20px;
+    height: 20px;
+    background-size: 20px 20px;
+  }
+  .budget-value {
+    font-size: 16px;
+  }
+
   .circle-of-categories {
     display: none;
   }
   .select-div {
     display: grid;
     width: 60%;
+  }
+
+  .row-of-buttons {
+    height: auto;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: scroll;
+  }
+  .character-button {
+    width: 80%;
+    height: 50px;
+    margin: 5%;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .character-img {
+    width: 30%;
+    object-fit: contain;
+  }
+  .scrollable {
+    display: block;
+    overflow-y: scroll;
   }
 
   .result {

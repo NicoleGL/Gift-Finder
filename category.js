@@ -43,22 +43,6 @@ const categoryAndIcon = {
   Accessories: "fa-shopping-bag",
 };
 
-function selectOrDeselect(el) {
-  el.classList.toggle("selected");
-}
-
-function selectAll() {
-  for (let category of categories) {
-    category.classList.add("selected");
-  }
-}
-
-function deselectAll() {
-  for (let category of categories) {
-    category.classList.remove("selected");
-  }
-}
-
 function showOrHideIcon(category) {
   const iconClass = categoryAndIcon[category];
   const icon = document.getElementsByClassName(iconClass)[0];
@@ -90,10 +74,10 @@ for (let category of categories) {
 allButton.addEventListener("click", () => {
   allButton.classList.toggle("black-selected");
   if (allButton.classList.contains("black-selected")) {
-    selectAll();
+    selectAll(categories);
     showAllIcons();
   } else {
-    deselectAll();
+    deselectAll(categories);
     hideAllIcons();
   }
 });
