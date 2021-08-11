@@ -1,504 +1,692 @@
 [
-    {
-        "product_id": "2862669",
-        "store_name": "Gilt",
-        "host_name": "gilt.com",
-        "title": "Tic Tac Shot Drinking Board Game",
-        "product_description": "The stakes just got higher and Tic Tac Toe just got fun. Tic Tac Shot! transforms the classic boredom buster into a risky grown-up game of skill.Game . Includes: 1 board & 9 shot glassesMade of glassHand wash recommendedGreat for parties! Great gift! Measures 2.5in x 10in x 10in Made from glass Dishwasher Safe Imported Contents of set: 1 board & 9 shot glasses",
-        "brand": "True",
-        "category_name": "Gaming Old",
-        "character": [
-            "gym rat"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2399,
-        "sale_price": 2399,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gilt.com/9c62de8547bf269af7ea6968d125595a"
-        ],
-        "web_url": "https://www.gilt.com/boutique/product/163785/111235755/",
-        "mobile_url": null,
-        "affiliate_url": "https://www.pjatr.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F163785%2F111235755%2F",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "3050323202"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/9c62de8547bf269af7ea6968d125595a",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gilt.com/9c62de8547bf269af7ea6968d125595a",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gilt.com/9c62de8547bf269af7ea6968d125595a",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+  {
+    "product_id": "2862669",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Tic Tac Shot Drinking Board Game",
+    "product_description": "The stakes just got higher and Tic Tac Toe just got fun. Tic Tac Shot! transforms the classic boredom buster into a risky grown-up game of skill.Game . Includes: 1 board & 9 shot glassesMade of glassHand wash recommendedGreat for parties! Great gift! Measures 2.5in x 10in x 10in Made from glass Dishwasher Safe Imported Contents of set: 1 board & 9 shot glasses",
+    "brand": "True",
+    "category_name": "Gaming Old",
+    "character": ["gym rat"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2399,
+    "sale_price": 2399,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/9c62de8547bf269af7ea6968d125595a"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/163785/111235755/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pjatr.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F163785%2F111235755%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["3050323202"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/9c62de8547bf269af7ea6968d125595a",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/9c62de8547bf269af7ea6968d125595a",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/9c62de8547bf269af7ea6968d125595a",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "4562729",
-        "store_name": "GameStop",
-        "host_name": "gamestop.com",
-        "title": "Electronic Pictionary Man Board Game Mattel GameStop",
-        "product_description": "Pictionary Man is the all-new way to play Pictionary that combines drawing, electronic clues, and interactive accessories for a whole new way to play. Electronic Pictionary Man Board Game",
-        "brand": "Mattel",
-        "category_name": "Electronics",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 3499,
-        "sale_price": 3499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46"
-        ],
-        "web_url": "https://www.gamestop.com/toys-collectibles/games-puzzles/board-games/products/electronic-pictionary-man-board-game/277641.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.67800&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Ftoys-collectibles%2Fgames-puzzles%2Fboard-games%2Fproducts%2Felectronic-pictionary-man-board-game%2F277641.html",
-        "klarna_merchant_id": "N104869",
-        "feed_key": [
-            "67800"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "4562729",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Electronic Pictionary Man Board Game Mattel GameStop",
+    "product_description": "Pictionary Man is the all-new way to play Pictionary that combines drawing, electronic clues, and interactive accessories for a whole new way to play. Electronic Pictionary Man Board Game",
+    "brand": "Mattel",
+    "category_name": "Electronics",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 3499,
+    "sale_price": 3499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46"
+    ],
+    "web_url": "https://www.gamestop.com/toys-collectibles/games-puzzles/board-games/products/electronic-pictionary-man-board-game/277641.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.67800&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Ftoys-collectibles%2Fgames-puzzles%2Fboard-games%2Fproducts%2Felectronic-pictionary-man-board-game%2F277641.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["67800"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/7a24cee4f6fc22335a8e52763fc5aa46",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "714478",
-        "store_name": "Academy",
-        "host_name": "academy.com",
-        "title": "Cribbage Game Set",
-        "product_description": "The Mainstreet Classics Cribbage Game Set features a wooden game board and slotted storage channel. Mainstreet Classics Cribbage Game Set - Billiards And Table Tennis at Academy Sports",
-        "brand": "Mainstreet Classics",
-        "category_name": "Indoor Games",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1299,
-        "sale_price": 1299,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/academy.com/444d48107aaf3880242b8a4a981d16cf"
-        ],
-        "web_url": "https://www.academy.com/shop/pdp/mainstreet-classics-cribbage-game-set#repChildCatid=3340014",
-        "mobile_url": null,
-        "affiliate_url": "https://www.kqzyfj.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Fmainstreet-classics-cribbage-game-set%23repChildCatid%3D3340014",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "107767623"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/academy.com/444d48107aaf3880242b8a4a981d16cf",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/444d48107aaf3880242b8a4a981d16cf",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/academy.com/444d48107aaf3880242b8a4a981d16cf",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "714478",
+    "store_name": "Academy",
+    "host_name": "academy.com",
+    "title": "Cribbage Game Set",
+    "product_description": "The Mainstreet Classics Cribbage Game Set features a wooden game board and slotted storage channel. Mainstreet Classics Cribbage Game Set - Billiards And Table Tennis at Academy Sports",
+    "brand": "Mainstreet Classics",
+    "category_name": "Indoor Games",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1299,
+    "sale_price": 1299,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/academy.com/444d48107aaf3880242b8a4a981d16cf"
+    ],
+    "web_url": "https://www.academy.com/shop/pdp/mainstreet-classics-cribbage-game-set#repChildCatid=3340014",
+    "mobile_url": null,
+    "affiliate_url": "https://www.kqzyfj.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Fmainstreet-classics-cribbage-game-set%23repChildCatid%3D3340014",
+    "klarna_merchant_id": null,
+    "feed_key": ["107767623"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/academy.com/444d48107aaf3880242b8a4a981d16cf",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/444d48107aaf3880242b8a4a981d16cf",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/academy.com/444d48107aaf3880242b8a4a981d16cf",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "3248301",
-        "store_name": "GameStop",
-        "host_name": "gamestop.com",
-        "title": "Fitness Boxing",
-        "product_description": "Get off the couch and get moving with fun, boxing-based rhythmic exercises set to the instrumental beats of songs by popular artists. You can personalize your workouts by selecting from different fitness goals. Train your way, whether youre on your own, with a friend, at home, or on the go! Now you can work out anytime, anywhere on the Nintendo Switch system! Fitness Boxing",
-        "brand": "Nintendo",
-        "category_name": "Activewear",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 4999,
-        "sale_price": 4999,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gamestop.com/db081bb26103459a53ac7acd2f427fb4"
-        ],
-        "web_url": "https://www.gamestop.com/video-games/switch/games/products/fitness-boxing/188053.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.18082&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fswitch%2Fgames%2Fproducts%2Ffitness-boxing%2F188053.html",
-        "klarna_merchant_id": "N104869",
-        "feed_key": [
-            "18082"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "3248301",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Fitness Boxing",
+    "product_description": "Get off the couch and get moving with fun, boxing-based rhythmic exercises set to the instrumental beats of songs by popular artists. You can personalize your workouts by selecting from different fitness goals. Train your way, whether youre on your own, with a friend, at home, or on the go! Now you can work out anytime, anywhere on the Nintendo Switch system! Fitness Boxing",
+    "brand": "Nintendo",
+    "category_name": "Activewear",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 4999,
+    "sale_price": 4999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/db081bb26103459a53ac7acd2f427fb4"
+    ],
+    "web_url": "https://www.gamestop.com/video-games/switch/games/products/fitness-boxing/188053.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.18082&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fswitch%2Fgames%2Fproducts%2Ffitness-boxing%2F188053.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["18082"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/db081bb26103459a53ac7acd2f427fb4",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "6378109",
-        "store_name": "GameStop",
-        "host_name": "gamestop.com",
-        "title": "Slime Rancher Pre-owned PS4 Games Skybound Games",
-        "product_description": "When life on Earth isnt enough for young rancher Beatrix LeBeau, she sets her sights on a life light years away. As the new rancher on the Far, Far Range, LeBeau tries her hand at slime ranching in this first-person sandbox experience for the PS4. Make your Slime Ranch profitable and use your money to upgrade tools, create new gadgets, expand your property, and build more corrals for different types of slime. Create your slime paradise by crafting decorations, creating hybrid slimes, and explor",
-        "brand": "Skybound Games",
-        "category_name": "Dresses",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2999,
-        "sale_price": 2999,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gamestop.com/698ed7f476585ff28aa69de9f3458e0c"
-        ],
-        "web_url": "https://www.gamestop.com/video-games/playstation-4/games/products/slime-rancher/177545.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.19091&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fplaystation-4%2Fgames%2Fproducts%2Fslime-rancher%2F177545.html",
-        "klarna_merchant_id": "N104869",
-        "feed_key": [
-            "19091"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6378109",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Slime Rancher Pre-owned PS4 Games Skybound Games",
+    "product_description": "When life on Earth isnt enough for young rancher Beatrix LeBeau, she sets her sights on a life light years away. As the new rancher on the Far, Far Range, LeBeau tries her hand at slime ranching in this first-person sandbox experience for the PS4. Make your Slime Ranch profitable and use your money to upgrade tools, create new gadgets, expand your property, and build more corrals for different types of slime. Create your slime paradise by crafting decorations, creating hybrid slimes, and explor",
+    "brand": "Skybound Games",
+    "category_name": "Dresses",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/698ed7f476585ff28aa69de9f3458e0c"
+    ],
+    "web_url": "https://www.gamestop.com/video-games/playstation-4/games/products/slime-rancher/177545.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.19091&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fplaystation-4%2Fgames%2Fproducts%2Fslime-rancher%2F177545.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["19091"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/698ed7f476585ff28aa69de9f3458e0c",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "4835780",
-        "store_name": "Newegg",
-        "host_name": "newegg.com",
-        "title": "Hunting Simulator 2 - PS5 Video Games",
-        "product_description": "Experience a realistic hunting adventure: over 36 different animals of all sizes located in their natural habitats. Hunt in one of 3 major regions, comprised of multiple subregions for tons of variety and content Partner with your Dog companion: introducing a brand-new hunting Dog mechanic to assist you on your hunt; command your Dog to track, freeze, Follow and more Enjoy the best of hunting brands: using all Licensed Gear from top hunting brands around the world; customize your player with 65",
-        "brand": "Maximum Games",
-        "category_name": "Video",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 4599,
-        "sale_price": 4599,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/newegg.com/1305c92dbc00e10657c3d50ec9bd3652"
-        ],
-        "web_url": "https://www.newegg.com/p/N82E16879754152",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18724036758&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16879754152",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "18724036758"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "4835780",
+    "store_name": "Newegg",
+    "host_name": "newegg.com",
+    "title": "Hunting Simulator 2 - PS5 Video Games",
+    "product_description": "Experience a realistic hunting adventure: over 36 different animals of all sizes located in their natural habitats. Hunt in one of 3 major regions, comprised of multiple subregions for tons of variety and content Partner with your Dog companion: introducing a brand-new hunting Dog mechanic to assist you on your hunt; command your Dog to track, freeze, Follow and more Enjoy the best of hunting brands: using all Licensed Gear from top hunting brands around the world; customize your player with 65",
+    "brand": "Maximum Games",
+    "category_name": "Video",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 4599,
+    "sale_price": 4599,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/newegg.com/1305c92dbc00e10657c3d50ec9bd3652"
+    ],
+    "web_url": "https://www.newegg.com/p/N82E16879754152",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18724036758&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16879754152",
+    "klarna_merchant_id": null,
+    "feed_key": ["18724036758"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/1305c92dbc00e10657c3d50ec9bd3652",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "5582220",
-        "store_name": "GameStop",
-        "host_name": "gamestop.com",
-        "title": "I Spy Memory Game Tin Briarpatch",
-        "product_description": "Now you can enjoy the I Spy Memory Game, the game of picture riddles, based on the bestselling book series of the same name. Match picture pairs and find riddle solutions in this classic memory game that features durable cardboard cards. I Spy Memory Game Tin",
-        "brand": "Briarpatch",
-        "category_name": "Memory",
-        "character": [
-            "geek",
-            "mom"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1299,
-        "sale_price": 1299,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gamestop.com/8d5be723802a1df47f330e074c5603c7"
-        ],
-        "web_url": "https://www.gamestop.com/toys-collectibles/games-puzzles/puzzles/products/i-spy-memory-game-tin/290447.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.82805&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Ftoys-collectibles%2Fgames-puzzles%2Fpuzzles%2Fproducts%2Fi-spy-memory-game-tin%2F290447.html",
-        "klarna_merchant_id": "N104869",
-        "feed_key": [
-            "82805"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gamestop.com/8d5be723802a1df47f330e074c5603c7",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/8d5be723802a1df47f330e074c5603c7",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gamestop.com/8d5be723802a1df47f330e074c5603c7",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "5582220",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "I Spy Memory Game Tin Briarpatch",
+    "product_description": "Now you can enjoy the I Spy Memory Game, the game of picture riddles, based on the bestselling book series of the same name. Match picture pairs and find riddle solutions in this classic memory game that features durable cardboard cards. I Spy Memory Game Tin",
+    "brand": "Briarpatch",
+    "category_name": "Memory",
+    "character": ["geek", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1299,
+    "sale_price": 1299,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/8d5be723802a1df47f330e074c5603c7"
+    ],
+    "web_url": "https://www.gamestop.com/toys-collectibles/games-puzzles/puzzles/products/i-spy-memory-game-tin/290447.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.82805&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Ftoys-collectibles%2Fgames-puzzles%2Fpuzzles%2Fproducts%2Fi-spy-memory-game-tin%2F290447.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["82805"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/8d5be723802a1df47f330e074c5603c7",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/8d5be723802a1df47f330e074c5603c7",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/8d5be723802a1df47f330e074c5603c7",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "6374332",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Kids' and Adults Large Pong Outdoor Game Set",
-        "product_description": "The Large Beer Pong Outdoor Game Set for Kids and Adults with 12 Buckets, 2 Balls, Tote Bag by Hey! Play! is easy to set-up, play and store, making fun just a toss away. This is the ultimate beach, poolside, backyard, or tailgating game that's perfect for kids and adults of all ages, and can be played with an adult twist by using adult libations.",
-        "brand": "Hey! Play!",
-        "category_name": "Outdoor Recreation",
-        "character": [
-            "gym rat"
-        ],
-        "is_male": true,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 3449,
-        "sale_price": 3449,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/513cfdb98b3661b24993e28762598938"
-        ],
-        "web_url": "https://www.target.com/p/hey-play-kids-and-adults-large-pong-outdoor-game-set/-/A-54564118",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=54564118&u=https%3A%2F%2Fwww.target.com%2Fp%2Fhey-play-kids-and-adults-large-pong-outdoor-game-set%2F-%2FA-54564118&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "54564118"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/513cfdb98b3661b24993e28762598938",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/513cfdb98b3661b24993e28762598938",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/513cfdb98b3661b24993e28762598938",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6374332",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Kids' and Adults Large Pong Outdoor Game Set",
+    "product_description": "The Large Beer Pong Outdoor Game Set for Kids and Adults with 12 Buckets, 2 Balls, Tote Bag by Hey! Play! is easy to set-up, play and store, making fun just a toss away. This is the ultimate beach, poolside, backyard, or tailgating game that's perfect for kids and adults of all ages, and can be played with an adult twist by using adult libations.",
+    "brand": "Hey! Play!",
+    "category_name": "Outdoor Recreation",
+    "character": ["gym rat"],
+    "is_male": true,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 3449,
+    "sale_price": 3449,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/513cfdb98b3661b24993e28762598938"
+    ],
+    "web_url": "https://www.target.com/p/hey-play-kids-and-adults-large-pong-outdoor-game-set/-/A-54564118",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=54564118&u=https%3A%2F%2Fwww.target.com%2Fp%2Fhey-play-kids-and-adults-large-pong-outdoor-game-set%2F-%2FA-54564118&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["54564118"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/513cfdb98b3661b24993e28762598938",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/513cfdb98b3661b24993e28762598938",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/513cfdb98b3661b24993e28762598938",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "6362272",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Ladder Toss Outdoor Roundnet Game Set",
-        "product_description": "The Ladder Toss Outdoor Game, Two PCV Game Sets with 6 Bolas with Carrying Case for Kids and Adults by Hey! Play! is a great outdoor game for the beach, backyard, tailgate, family reunion or backyard party for players of all ages. Create long lasting memories with this fun, outdoor game!",
-        "brand": "Hey! Play!",
-        "category_name": "Outdoor Recreation",
-        "character": [
-            "dad",
-            "mom"
-        ],
-        "is_male": true,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 2249,
-        "sale_price": 2249,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/d039f0300133e94385aa875f74be9167"
-        ],
-        "web_url": "https://www.target.com/p/hey-play-ladder-toss-outdoor-roundnet-game-set/-/A-54564096",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=54564096&u=https%3A%2F%2Fwww.target.com%2Fp%2Fhey-play-ladder-toss-outdoor-roundnet-game-set%2F-%2FA-54564096&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "54564096"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/d039f0300133e94385aa875f74be9167",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/d039f0300133e94385aa875f74be9167",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/d039f0300133e94385aa875f74be9167",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6362272",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Ladder Toss Outdoor Roundnet Game Set",
+    "product_description": "The Ladder Toss Outdoor Game, Two PCV Game Sets with 6 Bolas with Carrying Case for Kids and Adults by Hey! Play! is a great outdoor game for the beach, backyard, tailgate, family reunion or backyard party for players of all ages. Create long lasting memories with this fun, outdoor game!",
+    "brand": "Hey! Play!",
+    "category_name": "Outdoor Recreation",
+    "character": ["dad", "mom"],
+    "is_male": true,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 2249,
+    "sale_price": 2249,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/d039f0300133e94385aa875f74be9167"
+    ],
+    "web_url": "https://www.target.com/p/hey-play-ladder-toss-outdoor-roundnet-game-set/-/A-54564096",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=54564096&u=https%3A%2F%2Fwww.target.com%2Fp%2Fhey-play-ladder-toss-outdoor-roundnet-game-set%2F-%2FA-54564096&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["54564096"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/d039f0300133e94385aa875f74be9167",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/d039f0300133e94385aa875f74be9167",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/d039f0300133e94385aa875f74be9167",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "3974896",
-        "store_name": "Newegg",
-        "host_name": "newegg.com",
-        "title": "Control Ultimate Edition - Xbox Series X Games",
-        "product_description": "Action, Adventure M - Mature",
-        "brand": "505 Games",
-        "category_name": "Game Controllers",
-        "character": [
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 4499,
-        "sale_price": 4499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc"
-        ],
-        "web_url": "https://www.newegg.com/p/N82E16874708074",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18584342902&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16874708074",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "18584342902"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
-    }
+    "other_images": null
+  },
+  {
+    "product_id": "3974896",
+    "store_name": "Newegg",
+    "host_name": "newegg.com",
+    "title": "Control Ultimate Edition - Xbox Series X Games",
+    "product_description": "Action, Adventure M - Mature",
+    "brand": "505 Games",
+    "category_name": "Game Controllers",
+    "character": ["geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 4499,
+    "sale_price": 4499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc"
+    ],
+    "web_url": "https://www.newegg.com/p/N82E16874708074",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18584342902&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16874708074",
+    "klarna_merchant_id": null,
+    "feed_key": ["18584342902"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/4d6d248ca19702cfa607a3ae5cf75fbc",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3223732",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Xbox Game Pass 3 Month for PC",
+    "product_description": "Play over 100 high-quality PC games on Windows 10 for one low monthly price with Xbox Game Pass for PC. Use the Xbox app on PC to download and play games the same day they release like Halo Infinite, plus PC favorites including Age of Empires 4 (coming soon) and Microsoft Flight Simulator. Get exclusive member discounts and deals on select games and game add-ons in the Xbox Game Pass for PC library. With a huge variety of PC games from every genre, and new titles added all the time, theres some",
+    "brand": "Microsoft",
+    "category_name": "Electronics",
+    "character": ["geek", "emo"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2429,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/a0bf444f254cb0e5ff8aa94c8a33732f"
+    ],
+    "web_url": "https://www.gamestop.com/video-games/pc/currency-subscriptions/products/xbox-game-pass-3-month-for-pc/225477.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.37697&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fpc%2Fcurrency-subscriptions%2Fproducts%2Fxbox-game-pass-3-month-for-pc%2F225477.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["37697"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/a0bf444f254cb0e5ff8aa94c8a33732f",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/a0bf444f254cb0e5ff8aa94c8a33732f",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/a0bf444f254cb0e5ff8aa94c8a33732f",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3247069",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Another Lost Phone Lauras Story",
+    "product_description": "Following up on their success with the 2017 puzzle game A Normal Lost Phone, Accidental Queens bring you Another Lost Phone: Lauras Story for Nintendo Switch. Similar to the first game, you find an abandoned phone and must use all your brain power and snooping skills to unravel the mysteries of its owner, Laura. As you discover the intimate details of her life through your research, some information leads to more questions than answers. Are you doing the right thing by invading her privacy to t",
+    "brand": "Nintendo",
+    "category_name": "Tech",
+    "character": ["geek", "traveller", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 599,
+    "sale_price": 599,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/4c0d1e55fdb7bd75294be6472bd1454a"
+    ],
+    "web_url": "https://www.gamestop.com/video-games/switch/games/products/another-lost-phone-lauras-story/168550.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.29905&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fswitch%2Fgames%2Fproducts%2Fanother-lost-phone-lauras-story%2F168550.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["29905"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/4c0d1e55fdb7bd75294be6472bd1454a",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/4c0d1e55fdb7bd75294be6472bd1454a",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/4c0d1e55fdb7bd75294be6472bd1454a",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3231456",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Brain Age: Concentration Training",
+    "product_description": "Brain Age is back with all-new devilishly difficult brain-training exercises designed by world-famous brain researcher Dr. Ryuta Kawashima. The modern mind has numerous devices to stay connected (e.g. laptops, smart phones, tablets), and these distractions have led to an information overload making it difficult to stay focused on specific tasks. Brain AgeTM: Concentration Training offers newly designed training exercises to combat this information addiction. By spending at least five minutes a d",
+    "brand": "Nintendo",
+    "category_name": "Activewear",
+    "character": ["geek", "mom", "dad"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/69670e816ccd0cdc13048c6a5d3cceab"
+    ],
+    "web_url": "https://www.gamestop.com/video-games/more-platforms/nintendo-3ds/games/products/brain-age-concentration-training/605008.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.5737&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fmore-platforms%2Fnintendo-3ds%2Fgames%2Fproducts%2Fbrain-age-concentration-training%2F605008.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["5737"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/69670e816ccd0cdc13048c6a5d3cceab",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/69670e816ccd0cdc13048c6a5d3cceab",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/69670e816ccd0cdc13048c6a5d3cceab",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "4340134",
+    "store_name": "Academy",
+    "host_name": "academy.com",
+    "title": "Pennsylvania Ave Backgammon Set",
+    "product_description": "The Mainstreet Classics Pennsylvania Ave Backgammon Set features a suede and leather playing surface and wooden playing pieces. Mainstreet Classics Pennsylvania Ave Backgammon Set - Billiards And Table Tennis at Academy Sports",
+    "brand": "Mainstreet Classics",
+    "category_name": "Indoor Games",
+    "character": ["dad", "geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 5399,
+    "sale_price": 5399,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/academy.com/f6f62abe5306d8c9412474ce6af17c00"
+    ],
+    "web_url": "https://www.academy.com/shop/pdp/mainstreet-classics-pennsylvania-ave-backgammon-set#repChildCatid=3340018",
+    "mobile_url": null,
+    "affiliate_url": "https://www.tkqlhce.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Fmainstreet-classics-pennsylvania-ave-backgammon-set%23repChildCatid%3D3340018",
+    "klarna_merchant_id": null,
+    "feed_key": ["107768061"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/academy.com/f6f62abe5306d8c9412474ce6af17c00",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/f6f62abe5306d8c9412474ce6af17c00",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/academy.com/f6f62abe5306d8c9412474ce6af17c00",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3936654",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Chess Shot Game",
+    "product_description": "A twist on the classic game has you going head to head and shot for shot with your friend or foe. High quality glass construction makes this an easy win. Checkmate!Made of high quality glassUse shot glasses as chess piecesClassic game with a twistGreat gift idea! Measures 2.25in x 13.75in x 13.75in Made from glass Imported",
+    "brand": "True",
+    "category_name": "Decor",
+    "character": ["geek", "dad", "gym rat"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2399,
+    "sale_price": 2399,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/1298dd93d8881040cbf18a2a7e71cb5a"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/163785/111235688/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F163785%2F111235688%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["3050666486"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/1298dd93d8881040cbf18a2a7e71cb5a",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/1298dd93d8881040cbf18a2a7e71cb5a",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/1298dd93d8881040cbf18a2a7e71cb5a",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  }
 ]

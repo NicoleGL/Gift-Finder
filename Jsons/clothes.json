@@ -1,481 +1,771 @@
 [
-    {
-        "product_id": "5727057",
-        "store_name": "H&M",
-        "host_name": "hm.com",
-        "title": "5-pack Boxer Shorts - Pink",
-        "product_description": "Boxer shorts in stretch organic cotton jersey with flatlock seams for improved comfort. Slightly longer legs, elasticized waistband, and lined front.",
-        "brand": "H&M",
-        "category_name": "Clothing",
-        "character": [
-            "gym rat",
-            "dad"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2999,
-        "sale_price": 2999,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb"
-        ],
-        "web_url": "https://www2.hm.com/en_us/productpage.0736944016.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.592579&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0736944016.html",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "592579"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+  {
+    "product_id": "5727057",
+    "store_name": "H&M",
+    "host_name": "hm.com",
+    "title": "5-pack Boxer Shorts - Pink",
+    "product_description": "Boxer shorts in stretch organic cotton jersey with flatlock seams for improved comfort. Slightly longer legs, elasticized waistband, and lined front.",
+    "brand": "H&M",
+    "category_name": "Clothing",
+    "character": ["gym rat", "dad"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb"
+    ],
+    "web_url": "https://www2.hm.com/en_us/productpage.0736944016.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.592579&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0736944016.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["592579"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/b130f6c55ce1b3d6a2eb7df0fef484fb",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "4319099",
-        "store_name": "H&M",
-        "host_name": "hm.com",
-        "title": "Cotton Dress - Pink",
-        "product_description": "Kids Exclusive. Sleeveless dress in cotton slub jersey with gathered tiers. Extra-narrow shoulder straps. Unlined.",
-        "brand": "H&M",
-        "category_name": "Dresses",
-        "character": [
-            "traveller",
-            "geek",
-            "influencer",
-            "spiritualist"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1799,
-        "sale_price": 1799,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/hm.com/0aa06416e76fb650d77401d2560b3bf9"
-        ],
-        "web_url": "https://www2.hm.com/en_us/productpage.0960563001.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.578409&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0960563001.html",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "578409"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/0aa06416e76fb650d77401d2560b3bf9",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/hm.com/0aa06416e76fb650d77401d2560b3bf9",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/hm.com/0aa06416e76fb650d77401d2560b3bf9",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "4319099",
+    "store_name": "H&M",
+    "host_name": "hm.com",
+    "title": "Cotton Dress - Pink",
+    "product_description": "Kids Exclusive. Sleeveless dress in cotton slub jersey with gathered tiers. Extra-narrow shoulder straps. Unlined.",
+    "brand": "H&M",
+    "category_name": "Dresses",
+    "character": ["traveller", "geek", "influencer", "spiritualist"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1799,
+    "sale_price": 1799,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hm.com/0aa06416e76fb650d77401d2560b3bf9"
+    ],
+    "web_url": "https://www2.hm.com/en_us/productpage.0960563001.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.578409&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0960563001.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["578409"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/0aa06416e76fb650d77401d2560b3bf9",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hm.com/0aa06416e76fb650d77401d2560b3bf9",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hm.com/0aa06416e76fb650d77401d2560b3bf9",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "2819580",
-        "store_name": "Gilt",
-        "host_name": "gilt.com",
-        "title": "Oversized Linen T-Shirt",
-        "product_description": "Color/pattern: aged copper Approximately 26in from shoulder to hem Model is 511 and is wearing a size small/medium. Measurements may vary slightly by size. Design details: oversized cut with scoop neck 100% linen Hand wash Imported",
-        "brand": "Yfb Clothing",
-        "category_name": "T-shirts",
-        "character": [
-            "mom"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1299,
-        "sale_price": 1299,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gilt.com/293e7d0ec02cff0c601255aee61f85ab"
-        ],
-        "web_url": "https://www.gilt.com/boutique/product/175358/121152461/",
-        "mobile_url": null,
-        "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F175358%2F121152461%2F",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "1411925072"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "2819580",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Oversized Linen T-Shirt",
+    "product_description": "Color/pattern: aged copper Approximately 26in from shoulder to hem Model is 511 and is wearing a size small/medium. Measurements may vary slightly by size. Design details: oversized cut with scoop neck 100% linen Hand wash Imported",
+    "brand": "Yfb Clothing",
+    "category_name": "T-shirts",
+    "character": ["mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1299,
+    "sale_price": 1299,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/293e7d0ec02cff0c601255aee61f85ab"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/175358/121152461/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F175358%2F121152461%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1411925072"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/293e7d0ec02cff0c601255aee61f85ab",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "6184242",
-        "store_name": "Gap",
-        "host_name": "gap.com",
-        "title": "Kids Gap Logo Hoodie",
-        "product_description": "Made with 9% recycled polyester. Soft knit sweatshirt. Long sleeves with banded cuffs. Hood. Gap logo at front. Certain styles have dip-dye pattern. This season, Gap fleece has diverted 7. 6 million plastic bottles from the landfill. We reuse materials whenever we can to help minimize our impact on the planet because we believe less means more. Look inside each garment to learn about its recycled content.",
-        "brand": "Gap",
-        "category_name": "Clothing",
-        "character": [
-            "gym rat"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 3995,
-        "sale_price": 3995,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gap.com/fcde007ad2b997eff1b80347877b8e40"
-        ],
-        "web_url": "https://www.gap.com/browse/product.do?pid=833798012",
-        "mobile_url": null,
-        "affiliate_url": "https://gap.igs4ds.net/c/AFFILIATE_ID/659172/5553?prodsku=8337980120000&u=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D833798012%26vid%3D1&intsrc=CATF_4959",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "Purple Rose-8337980120002",
-            "Purple Rose-8337980120001",
-            "Purple Rose-8337980120000",
-            "Purple Rose-8337980120005",
-            "Purple Rose-8337980120004",
-            "Purple Rose-8337980120003"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gap.com/fcde007ad2b997eff1b80347877b8e40",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gap.com/fcde007ad2b997eff1b80347877b8e40",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gap.com/fcde007ad2b997eff1b80347877b8e40",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6184242",
+    "store_name": "Gap",
+    "host_name": "gap.com",
+    "title": "Kids Gap Logo Hoodie",
+    "product_description": "Made with 9% recycled polyester. Soft knit sweatshirt. Long sleeves with banded cuffs. Hood. Gap logo at front. Certain styles have dip-dye pattern. This season, Gap fleece has diverted 7. 6 million plastic bottles from the landfill. We reuse materials whenever we can to help minimize our impact on the planet because we believe less means more. Look inside each garment to learn about its recycled content.",
+    "brand": "Gap",
+    "category_name": "Clothing",
+    "character": ["gym rat"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 3995,
+    "sale_price": 3995,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gap.com/fcde007ad2b997eff1b80347877b8e40"
+    ],
+    "web_url": "https://www.gap.com/browse/product.do?pid=833798012",
+    "mobile_url": null,
+    "affiliate_url": "https://gap.igs4ds.net/c/AFFILIATE_ID/659172/5553?prodsku=8337980120000&u=https%3A%2F%2Fwww.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D833798012%26vid%3D1&intsrc=CATF_4959",
+    "klarna_merchant_id": null,
+    "feed_key": [
+      "Purple Rose-8337980120002",
+      "Purple Rose-8337980120001",
+      "Purple Rose-8337980120000",
+      "Purple Rose-8337980120005",
+      "Purple Rose-8337980120004",
+      "Purple Rose-8337980120003"
+    ],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gap.com/fcde007ad2b997eff1b80347877b8e40",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gap.com/fcde007ad2b997eff1b80347877b8e40",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gap.com/fcde007ad2b997eff1b80347877b8e40",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "5641663",
-        "store_name": "H&M",
-        "host_name": "hm.com",
-        "title": "Dress Shorts - Black",
-        "product_description": "Shorts in woven fabric with a high waist. Decorative buttons at waistband, concealed zipper at one side, and diagonal side pockets. Straight legs with pleats at front.",
-        "brand": "H&M",
-        "category_name": "Dresses",
-        "character": [
-            "emo",
-            "influencer"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2999,
-        "sale_price": 2999,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/hm.com/f1852bd4f76af8dac11472660164aed8"
-        ],
-        "web_url": "https://www2.hm.com/en_us/productpage.0965251001.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.597038&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0965251001.html",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "597038"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/hm.com/f1852bd4f76af8dac11472660164aed8",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/f1852bd4f76af8dac11472660164aed8",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/hm.com/f1852bd4f76af8dac11472660164aed8",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "5641663",
+    "store_name": "H&M",
+    "host_name": "hm.com",
+    "title": "Dress Shorts - Black",
+    "product_description": "Shorts in woven fabric with a high waist. Decorative buttons at waistband, concealed zipper at one side, and diagonal side pockets. Straight legs with pleats at front.",
+    "brand": "H&M",
+    "category_name": "Dresses",
+    "character": ["emo", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hm.com/f1852bd4f76af8dac11472660164aed8"
+    ],
+    "web_url": "https://www2.hm.com/en_us/productpage.0965251001.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.597038&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0965251001.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["597038"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hm.com/f1852bd4f76af8dac11472660164aed8",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/f1852bd4f76af8dac11472660164aed8",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hm.com/f1852bd4f76af8dac11472660164aed8",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "5643788",
-        "store_name": "H&M",
-        "host_name": "hm.com",
-        "title": "Shirt Dress - Black",
-        "product_description": "Short dress in woven fabric. Collar, buttons at top, and double-layered yoke with gathered seams at shoulders and back. Long sleeves and wide cuffs with buttons. Seam at waist with narrow elastic at back and a flared skirt. Lined. Made partly from recycled polyester.",
-        "brand": "H&M",
-        "category_name": "Dresses",
-        "character": [
-            "emo",
-            "spiritualist"
-        ],
-        "is_male": false,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 3499,
-        "sale_price": 2099,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/hm.com/8a15cf0011bae813be8e68380c72258c"
-        ],
-        "web_url": "https://www2.hm.com/en_us/productpage.0930876003.html",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.520075&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0930876003.html",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "520075"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/hm.com/8a15cf0011bae813be8e68380c72258c",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/hm.com/8a15cf0011bae813be8e68380c72258c",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/8a15cf0011bae813be8e68380c72258c",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "5643788",
+    "store_name": "H&M",
+    "host_name": "hm.com",
+    "title": "Shirt Dress - Black",
+    "product_description": "Short dress in woven fabric. Collar, buttons at top, and double-layered yoke with gathered seams at shoulders and back. Long sleeves and wide cuffs with buttons. Seam at waist with narrow elastic at back and a flared skirt. Lined. Made partly from recycled polyester.",
+    "brand": "H&M",
+    "category_name": "Dresses",
+    "character": ["emo", "spiritualist"],
+    "is_male": false,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 3499,
+    "sale_price": 2099,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hm.com/8a15cf0011bae813be8e68380c72258c"
+    ],
+    "web_url": "https://www2.hm.com/en_us/productpage.0930876003.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.520075&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0930876003.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["520075"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hm.com/8a15cf0011bae813be8e68380c72258c",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hm.com/8a15cf0011bae813be8e68380c72258c",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/8a15cf0011bae813be8e68380c72258c",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "4181658",
-        "store_name": "Gilt",
-        "host_name": "gilt.com",
-        "title": "Tarren T-Shirt",
-        "product_description": "Color/pattern: cedar wood Jupiter Approximately 25in from shoulder to hem Model is 511 and is wearing a size medium. Measurements may vary slightly by size. Design details: roll neck and ribbed trim 100% cotton Hand wash Imported",
-        "brand": "Yfb Clothing",
-        "category_name": "T-shirts",
-        "character": [
-            "gym rat",
-            "influencer"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 4499,
-        "sale_price": 4499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/gilt.com/01245cbc2966a32339d30f7e47faa1d6"
-        ],
-        "web_url": "https://www.gilt.com/boutique/product/180884/125384213/",
-        "mobile_url": null,
-        "affiliate_url": "https://www.pjtra.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F180884%2F125384213%2F",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "1411828902"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "4181658",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Tarren T-Shirt",
+    "product_description": "Color/pattern: cedar wood Jupiter Approximately 25in from shoulder to hem Model is 511 and is wearing a size medium. Measurements may vary slightly by size. Design details: roll neck and ribbed trim 100% cotton Hand wash Imported",
+    "brand": "Yfb Clothing",
+    "category_name": "T-shirts",
+    "character": ["gym rat", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 4499,
+    "sale_price": 4499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/01245cbc2966a32339d30f7e47faa1d6"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/180884/125384213/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pjtra.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F180884%2F125384213%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1411828902"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/01245cbc2966a32339d30f7e47faa1d6",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "114054",
-        "store_name": "Hbx",
-        "host_name": "hbx.com",
-        "title": "Malibuboy T-shirt",
-        "product_description": "- R13 - Malibuboy T-shirt - Short sleeves - Ribbed crewneck - R13 surf graphic on front and back - Cotton jersey in White - 100% Cotton - Machine wash cold",
-        "brand": "R13",
-        "category_name": "T-shirts",
-        "character": [
-            "gym rat"
-        ],
-        "is_male": false,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 19500,
-        "sale_price": 7800,
-        "in_stock": false,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
-            "https://img.klarnacdn.net/2/thumbnail/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
-            "https://img.klarnacdn.net/2/thumbnail/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
-            "https://img.klarnacdn.net/2/thumbnail/hbx.com/87306625515c78be1a836f1a0068756e"
-        ],
-        "web_url": "https://hbx.com/women/brands/r13/malibuboy-t-shirt?catalog_country=US",
-        "mobile_url": null,
-        "affiliate_url": "https://www.kqzyfj.com/click-9252602-13426598?url=https%3A%2F%2Fhbx.com%2Fwomen%2Fbrands%2Fr13%2Fmalibuboy-t-shirt%3Fcatalog_country%3DUS",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "R13-TE-W-253616-WT-00S",
-            "R13-TE-W-253616-WT-00L",
-            "R13-TE-W-253616-WT-0XS",
-            "R13-TE-W-253616-WT-00M"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
+    "other_images": null
+  },
+  {
+    "product_id": "114054",
+    "store_name": "Hbx",
+    "host_name": "hbx.com",
+    "title": "Malibuboy T-shirt",
+    "product_description": "- R13 - Malibuboy T-shirt - Short sleeves - Ribbed crewneck - R13 surf graphic on front and back - Cotton jersey in White - 100% Cotton - Machine wash cold",
+    "brand": "R13",
+    "category_name": "T-shirts",
+    "character": ["gym rat"],
+    "is_male": false,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 19500,
+    "sale_price": 7800,
+    "in_stock": false,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
+      "https://img.klarnacdn.net/2/thumbnail/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
+      "https://img.klarnacdn.net/2/thumbnail/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
+      "https://img.klarnacdn.net/2/thumbnail/hbx.com/87306625515c78be1a836f1a0068756e"
+    ],
+    "web_url": "https://hbx.com/women/brands/r13/malibuboy-t-shirt?catalog_country=US",
+    "mobile_url": null,
+    "affiliate_url": "https://www.kqzyfj.com/click-9252602-13426598?url=https%3A%2F%2Fhbx.com%2Fwomen%2Fbrands%2Fr13%2Fmalibuboy-t-shirt%3Fcatalog_country%3DUS",
+    "klarna_merchant_id": null,
+    "feed_key": [
+      "R13-TE-W-253616-WT-00S",
+      "R13-TE-W-253616-WT-00L",
+      "R13-TE-W-253616-WT-0XS",
+      "R13-TE-W-253616-WT-00M"
+    ],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/92bce0233beeb4ca2df85df2a976ce94",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": [
+      {
+        "thumbnail": {
+          "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
+          "width": 220,
+          "format": "thumbnail",
+          "height": 220
         },
-        "other_images": [
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            },
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                }
-            },
-            {
-                "thumbnail": {
-                    "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/87306625515c78be1a836f1a0068756e",
-                    "width": 220,
-                    "format": "thumbnail",
-                    "height": 220
-                },
-                "source": {
-                    "url": "https://img.klarnacdn.net/2/source/hbx.com/87306625515c78be1a836f1a0068756e",
-                    "width": -1,
-                    "format": "source",
-                    "height": -1
-                },
-                "small": {
-                    "url": "https://img.klarnacdn.net/2/small/hbx.com/87306625515c78be1a836f1a0068756e",
-                    "width": 330,
-                    "format": "small",
-                    "height": 330
-                }
-            }
-        ]
+        "source": {
+          "url": "https://img.klarnacdn.net/2/source/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
+          "width": -1,
+          "format": "source",
+          "height": -1
+        },
+        "small": {
+          "url": "https://img.klarnacdn.net/2/small/hbx.com/fce8ea02b4342fddd3d84ac7c527517a",
+          "width": 330,
+          "format": "small",
+          "height": 330
+        }
+      },
+      {
+        "thumbnail": {
+          "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
+          "width": 220,
+          "format": "thumbnail",
+          "height": 220
+        },
+        "small": {
+          "url": "https://img.klarnacdn.net/2/small/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
+          "width": 330,
+          "format": "small",
+          "height": 330
+        },
+        "source": {
+          "url": "https://img.klarnacdn.net/2/source/hbx.com/45ece7acd60f3ed4153ccd7c072c9be1",
+          "width": -1,
+          "format": "source",
+          "height": -1
+        }
+      },
+      {
+        "thumbnail": {
+          "url": "https://img.klarnacdn.net/2/thumbnail/hbx.com/87306625515c78be1a836f1a0068756e",
+          "width": 220,
+          "format": "thumbnail",
+          "height": 220
+        },
+        "source": {
+          "url": "https://img.klarnacdn.net/2/source/hbx.com/87306625515c78be1a836f1a0068756e",
+          "width": -1,
+          "format": "source",
+          "height": -1
+        },
+        "small": {
+          "url": "https://img.klarnacdn.net/2/small/hbx.com/87306625515c78be1a836f1a0068756e",
+          "width": 330,
+          "format": "small",
+          "height": 330
+        }
+      }
+    ]
+  },
+  {
+    "product_id": "4699033",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Skirt",
+    "product_description": "Color/pattern: love song floral 100% rayon Hand wash Imported",
+    "brand": "L-Space",
+    "category_name": "Skirts",
+    "character": ["mom", "spiritualist", "traveller"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 3999,
+    "sale_price": 3999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/0e48475aac8d2c804fd66d095b61dd3c"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/166995/127580078/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.gopjn.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F166995%2F127580078%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1411642881"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/0e48475aac8d2c804fd66d095b61dd3c",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/0e48475aac8d2c804fd66d095b61dd3c",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/0e48475aac8d2c804fd66d095b61dd3c",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3928091",
+    "store_name": "Shein",
+    "host_name": "shein.com",
+    "title": "High Waist Glitter Bodycon Skirt",
+    "product_description": "Black Glamorous Glitter Plain Bodycon Slight Stretch Spring/Summer/Fall Skirts, size features are:Bust: ,Length: Short ,Sleeve Length:",
+    "brand": "SHEIN",
+    "category_name": "Skirts",
+    "character": ["influencer"],
+    "is_male": false,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 600,
+    "sale_price": 600,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/shein.com/b29d4105ed3214c6088dfdc25e2ee049",
+      "https://img.klarnacdn.net/2/thumbnail/shein.com/b131fc5e015318c080baf25f15c87f2f",
+      "https://img.klarnacdn.net/2/thumbnail/shein.com/039d3f4b8d07bf063819264b4e899c95",
+      "https://img.klarnacdn.net/2/thumbnail/shein.com/d8924d2c6bf6704c30027e870acc9e1f",
+      "https://img.klarnacdn.net/2/thumbnail/shein.com/51be70fbf09c73e14abceb69856678b1"
+    ],
+    "web_url": "https://us.shein.com/High-Waist-Glitter-Bodycon-Skirt-p-669094-cat-1732.html",
+    "mobile_url": null,
+    "affiliate_url": "https://www.jdoqocy.com/click-9252602-13311199?url=https%3A%2F%2Fus.shein.com%2FHigh-Waist-Glitter-Bodycon-Skirt-p-669094-cat-1732.html%3Fref%3Dcj%26affiliateID%3D%3CPID%3E-%3CCID%3E%26url_from%3Dcj.com%26utm_campaign%3Dcjprofeed210318_swskirt07181228551",
+    "klarna_merchant_id": "N102971",
+    "feed_key": ["swskirt07181228551"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/shein.com/b29d4105ed3214c6088dfdc25e2ee049",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/shein.com/b29d4105ed3214c6088dfdc25e2ee049",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/shein.com/b29d4105ed3214c6088dfdc25e2ee049",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     }
+  },
+  {
+    "product_id": "1101716",
+    "store_name": "H&M",
+    "host_name": "hm.com",
+    "title": "Wide-cut Jeans - Black",
+    "product_description": "Ankle-length jeans in stretch denim. High waist, zip fly with button, a coin pocket, and back pockets. Straight, wide legs. Cotton content is partly recycled.",
+    "brand": "H&M",
+    "category_name": "Stretch Jeans",
+    "character": ["emo", "mom", "influencer", "spiritualist"],
+    "is_male": false,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 2499,
+    "sale_price": 2499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hm.com/772eaacf272d201d139231ad92d36048"
+    ],
+    "web_url": "https://www2.hm.com/en_us/productpage.0920829003.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=594160.487909&type=15&murl=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Fproductpage.0920829003.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["487914", "487909", "487912", "487911", "487910"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hm.com/772eaacf272d201d139231ad92d36048",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hm.com/772eaacf272d201d139231ad92d36048",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hm.com/772eaacf272d201d139231ad92d36048",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "5596994",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Jacket",
+    "product_description": "Color/pattern: white/black Approximately 24in from shoulder to hem Measurement was taken from a size 4 and may vary slightly by size Design details: 3/4-length sleeves, two front pockets Single-button closure 95% polyester, 5% spandex Hand wash Imported",
+    "brand": "Withyou",
+    "category_name": "Jackets",
+    "character": ["influencer", "spiritualist"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 3999,
+    "sale_price": 3999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/c8f5c9fc9bf2d21512850bbe256f0163"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/180939/131056214/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pjatr.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F180939%2F131056214%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1411505065"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/c8f5c9fc9bf2d21512850bbe256f0163",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/c8f5c9fc9bf2d21512850bbe256f0163",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/c8f5c9fc9bf2d21512850bbe256f0163",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "4980552",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Meakan Hoodie",
+    "product_description": "Color/pattern: black Approximately 33in from shoulder to hem Model is 60 and is wearing a size medium. Measurements may vary slightly by size. Design details: kangaroo pocket and curved hem 50% cotton, 50% modal Machine wash Made in the USA",
+    "brand": "Kinetix",
+    "category_name": "Sweats & Hoodies",
+    "character": ["emo", "gym rat", "spiritualist"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2999,
+    "sale_price": 2999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/a92c82910da6eb3f1e06f07c3aee470b"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/180357/128593353/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pntrac.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F180357%2F128593353%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1010926790"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/a92c82910da6eb3f1e06f07c3aee470b",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/a92c82910da6eb3f1e06f07c3aee470b",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/a92c82910da6eb3f1e06f07c3aee470b",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3888583",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Zoval Hoodie",
+    "product_description": "Color/pattern: white Approximately 22in from shoulder to hem Model is 511 and is wearing a size small. Measurements may vary slightly by size. Design details: sheer mesh knit design, dropped-shoulder sleeves, and drawstring hood 60% tencel, 40% cotton Machine wash Imported",
+    "brand": "XCVI",
+    "category_name": "Sweats & Hoodies",
+    "character": ["gym rat", "influencer", "geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1599,
+    "sale_price": 1599,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/e873a012df37d507eedbd98774da34f5"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/179027/124038004/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.gopjn.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F179027%2F124038004%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["1411498632"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/e873a012df37d507eedbd98774da34f5",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/e873a012df37d507eedbd98774da34f5",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/e873a012df37d507eedbd98774da34f5",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "3506030",
+    "store_name": "HOT TOPIC",
+    "host_name": "hottopic.com",
+    "title": "Science Is Magic T-Shirt",
+    "product_description": "Officially licensed art from Cody Weiler.",
+    "brand": "Threadless",
+    "category_name": "T-shirts",
+    "character": ["geek", "dad", "emo"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2290,
+    "sale_price": 1832,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/hottopic.com/5e2d8590d109d155aed9104f2eb22eb7"
+    ],
+    "web_url": "https://www.hottopic.com/product/science-is-magic-t-shirt/13725994.html",
+    "mobile_url": null,
+    "affiliate_url": "https://www.anrdoezrs.net/click-9252602-13648582?url=http%3A%2F%2Flink.mercent.com%2Fredirect.ashx%3Fmr%3AmerchantID%3DHotTopic%26mr%3AtrackingCode%3D93B3EC9C-25A7-EA11-8107-0050569428E8%26mr%3AtargetUrl%3Dhttps%3A%2F%2Fwww.hottopic.com%2Fproduct%2Fscience-is-magic-t-shirt%2F13725994.html",
+    "klarna_merchant_id": null,
+    "feed_key": ["13725995"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/hottopic.com/5e2d8590d109d155aed9104f2eb22eb7",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/hottopic.com/5e2d8590d109d155aed9104f2eb22eb7",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/hottopic.com/5e2d8590d109d155aed9104f2eb22eb7",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  }
 ]

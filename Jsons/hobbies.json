@@ -1,518 +1,692 @@
 [
-    {
-        "product_id": "6306812",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Cradled Wood Painting Panel, 18\"x24",
-        "product_description": "The Cradled Wood Painting Panel from American Easel offers a firm painting surface supported by a poplar wood cradle. The cradled frame prevents warping and is easy to hang immediately after completing your work. The top quality birch face can support almost any medium and can be used unprimed for a natural look or prepared with a gesso coating for added archival benefits. Create your next acrylic, encaustic or mixed media artwork with a truly blank canvas ready to support your work for years to come. Size: 18\"x24\".",
-        "brand": "American Easel",
-        "category_name": "Stationery",
-        "character": [
-            "emo",
-            "influencer"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2649,
-        "sale_price": 2649,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/ea263ce9ae6ba49bc83109fa86e11c2d"
-        ],
-        "web_url": "https://www.target.com/p/american-easel-cradled-wood-painting-panel-18-x24/-/A-50838162",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=50838162&u=https%3A%2F%2Fwww.target.com%2Fp%2Famerican-easel-cradled-wood-painting-panel-18-x24%2F-%2FA-50838162&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "50838162"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
+  {
+    "product_id": "6306812",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Cradled Wood Painting Panel, 18\"x24",
+    "product_description": "The Cradled Wood Painting Panel from American Easel offers a firm painting surface supported by a poplar wood cradle. The cradled frame prevents warping and is easy to hang immediately after completing your work. The top quality birch face can support almost any medium and can be used unprimed for a natural look or prepared with a gesso coating for added archival benefits. Create your next acrylic, encaustic or mixed media artwork with a truly blank canvas ready to support your work for years to come. Size: 18\"x24\".",
+    "brand": "American Easel",
+    "category_name": "Stationery",
+    "character": ["emo", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2649,
+    "sale_price": 2649,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/ea263ce9ae6ba49bc83109fa86e11c2d"
+    ],
+    "web_url": "https://www.target.com/p/american-easel-cradled-wood-painting-panel-18-x24/-/A-50838162",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=50838162&u=https%3A%2F%2Fwww.target.com%2Fp%2Famerican-easel-cradled-wood-painting-panel-18-x24%2F-%2FA-50838162&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["50838162"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/ea263ce9ae6ba49bc83109fa86e11c2d",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
     },
-    {
-        "product_id": "6371840",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Mindful Meditations Mandala Coloring Book",
-        "product_description": "The Crayola Mandala Coloring Book features 40 coloring pages with peaceful mind-soothing mandala designs. Each coloring sheet features intricate line art and connected designs that can be embellished with gel pens, colored pencils, markers and more! Detailed coloring activities are great for relieving stress and instilling a sense of calm and focus! Tear out the perforated pages to easily display your coloring skills. This beautifully rendered book makes a wonderful gift on birthdays, holidays, and everyday gifting occasions for coloring enthusiasts of all ages. Pair with Crayola Colored Pencils or Fine Line Markers (sold separately) for the ultimate coloring experience.",
-        "brand": "Crayola",
-        "category_name": "Stationery",
-        "character": [
-            "traveller",
-            "spiritualist",
-            "mom"
-        ],
-        "is_male": true,
-        "is_female": true,
-        "price_currency": "USD",
-        "retail_price": 699,
-        "sale_price": 699,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/e0ab9223ddb7bfc131c53a8dd8fce046"
-        ],
-        "web_url": "https://www.target.com/p/crayola-mindful-mediations-mandala-coloring-book/-/A-80914873",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=80914873&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcrayola-mindful-mediations-mandala-coloring-book%2F-%2FA-80914873&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "80914873"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6371840",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Mindful Meditations Mandala Coloring Book",
+    "product_description": "The Crayola Mandala Coloring Book features 40 coloring pages with peaceful mind-soothing mandala designs. Each coloring sheet features intricate line art and connected designs that can be embellished with gel pens, colored pencils, markers and more! Detailed coloring activities are great for relieving stress and instilling a sense of calm and focus! Tear out the perforated pages to easily display your coloring skills. This beautifully rendered book makes a wonderful gift on birthdays, holidays, and everyday gifting occasions for coloring enthusiasts of all ages. Pair with Crayola Colored Pencils or Fine Line Markers (sold separately) for the ultimate coloring experience.",
+    "brand": "Crayola",
+    "category_name": "Stationery",
+    "character": ["traveller", "spiritualist", "mom"],
+    "is_male": true,
+    "is_female": true,
+    "price_currency": "USD",
+    "retail_price": 699,
+    "sale_price": 699,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/e0ab9223ddb7bfc131c53a8dd8fce046"
+    ],
+    "web_url": "https://www.target.com/p/crayola-mindful-mediations-mandala-coloring-book/-/A-80914873",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=80914873&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcrayola-mindful-mediations-mandala-coloring-book%2F-%2FA-80914873&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["80914873"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/e0ab9223ddb7bfc131c53a8dd8fce046",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "6281096",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Foodi Cookbook for Beginners",
-        "product_description": "75 tasty ways to get the most out of your Ninja FoodiTM―the official companion cookbook! Welcome to the wonderful world of cooking with the Ninja FoodiTM, which combines the speed of a pressure cooker with the quick-crisping action of an air fryer. With the official Ninja FoodiTM Complete Cookbook for Beginners, you can maximize your all-in-one appliance by whipping up lots of fast, flavorful recipes. From Fish and Chips to Barbecue Baby Back Ribs, this comprehensive cookbook includes everything you need to get started serving up delicious, nutritious dishes in minutes. No matter what you’re in the mood for, the Ninja FoodiTM Complete Cookbook for Beginners has what you’re craving! The Ninja FoodiTM Complete Cookbook for Beginners includes: Fast, easy recipes―Discover how to make crowd-pleasing options for breakfast, lunch, and dinner, as well as appetizers, bread, and desserts. Quick-start guidance―Master all the fantastic features of your Ninja FoodiTM so you can learn how to pressure cook, air fry, TenderCrispTM, dehydrate, and more. Essential extras―Get expert tips for chefs of all skill levels that will get you up-and-crisping in a flash. Put mouthwatering meals on your table in no time with the official Ninja FoodiTM Complete Cookbook for Beginners.",
-        "brand": "Ninja",
-        "category_name": "Books",
-        "character": [
-            "influencer",
-            "mom"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1699,
-        "sale_price": 1699,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/784105d7bd9bf06519413493e01f9cc5"
-        ],
-        "web_url": "https://www.target.com/p/ninja-foodi-cookbook-for-beginners/-/A-81083006",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=81083006&u=https%3A%2F%2Fwww.target.com%2Fp%2Fninja-foodi-cookbook-for-beginners%2F-%2FA-81083006&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "81083006"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/784105d7bd9bf06519413493e01f9cc5",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/784105d7bd9bf06519413493e01f9cc5",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/784105d7bd9bf06519413493e01f9cc5",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6281096",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Foodi Cookbook for Beginners",
+    "product_description": "75 tasty ways to get the most out of your Ninja FoodiTM―the official companion cookbook! Welcome to the wonderful world of cooking with the Ninja FoodiTM, which combines the speed of a pressure cooker with the quick-crisping action of an air fryer. With the official Ninja FoodiTM Complete Cookbook for Beginners, you can maximize your all-in-one appliance by whipping up lots of fast, flavorful recipes. From Fish and Chips to Barbecue Baby Back Ribs, this comprehensive cookbook includes everything you need to get started serving up delicious, nutritious dishes in minutes. No matter what you’re in the mood for, the Ninja FoodiTM Complete Cookbook for Beginners has what you’re craving! The Ninja FoodiTM Complete Cookbook for Beginners includes: Fast, easy recipes―Discover how to make crowd-pleasing options for breakfast, lunch, and dinner, as well as appetizers, bread, and desserts. Quick-start guidance―Master all the fantastic features of your Ninja FoodiTM so you can learn how to pressure cook, air fry, TenderCrispTM, dehydrate, and more. Essential extras―Get expert tips for chefs of all skill levels that will get you up-and-crisping in a flash. Put mouthwatering meals on your table in no time with the official Ninja FoodiTM Complete Cookbook for Beginners.",
+    "brand": "Ninja",
+    "category_name": "Books",
+    "character": ["influencer", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1699,
+    "sale_price": 1699,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/784105d7bd9bf06519413493e01f9cc5"
+    ],
+    "web_url": "https://www.target.com/p/ninja-foodi-cookbook-for-beginners/-/A-81083006",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=81083006&u=https%3A%2F%2Fwww.target.com%2Fp%2Fninja-foodi-cookbook-for-beginners%2F-%2FA-81083006&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["81083006"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/784105d7bd9bf06519413493e01f9cc5",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/784105d7bd9bf06519413493e01f9cc5",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/784105d7bd9bf06519413493e01f9cc5",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "4580909",
-        "store_name": "Newegg",
-        "host_name": "newegg.com",
-        "title": "Film 16445783 Instax Wide 300 Camera Us Ex D",
-        "product_description": "FUJIFILM - FILM 16445783 INSTAX WIDE 300 CAMERA US EX D",
-        "brand": "Fujifilm",
-        "category_name": "Film Cameras",
-        "character": [
-            "traveller",
-            "emo",
-            "geek",
-            "influencer"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 12999,
-        "sale_price": 10499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/newegg.com/c1bc7f9d2917496f959e9ad66713008d"
-        ],
-        "web_url": "https://www.newegg.com/p/0ZS-000D-000B8",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18614992612&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2F0ZS-000D-000B8",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "18614992612"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "4580909",
+    "store_name": "Newegg",
+    "host_name": "newegg.com",
+    "title": "Film 16445783 Instax Wide 300 Camera Us Ex D",
+    "product_description": "FUJIFILM - FILM 16445783 INSTAX WIDE 300 CAMERA US EX D",
+    "brand": "Fujifilm",
+    "category_name": "Film Cameras",
+    "character": ["traveller", "emo", "geek", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 12999,
+    "sale_price": 10499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/newegg.com/c1bc7f9d2917496f959e9ad66713008d"
+    ],
+    "web_url": "https://www.newegg.com/p/0ZS-000D-000B8",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=833390.18614992612&type=15&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2F0ZS-000D-000B8",
+    "klarna_merchant_id": null,
+    "feed_key": ["18614992612"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/newegg.com/c1bc7f9d2917496f959e9ad66713008d",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "6325527",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Drawing Pencil Set 12ct - Cretacolor",
-        "product_description": "This Drawing Pencil Assortment by Cretacolor features a softer range of 12 graphite drawing pencils for creating rich black values. The B grade pencils push the shadows deeper and create high contrast and the illusion of depth. The kit also contains a few harder leads primarily used for light outlines and sketching. The set contains 9B, 8B, 7B, 6B, 5B, 4B, 3B, 2B, B, HB, F, and 2H, from softest to hardest respectively. Both the amount of applied pressure and the degree of lead allows artists to control the gradation of values within an artwork. The Drawing Pencil Assortment is packaged in a handy tin for protection and storage.",
-        "brand": "CRETACOLOR",
-        "category_name": "Stationery",
-        "character": [
-            "emo",
-            "spiritualist",
-            "mom"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 2099,
-        "sale_price": 2099,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/17c60ab425c001438165a74c7b7d32c1"
-        ],
-        "web_url": "https://www.target.com/p/drawing-pencil-set-12ct-cretacolor/-/A-53043069",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=53043069&u=https%3A%2F%2Fwww.target.com%2Fp%2Fdrawing-pencil-set-12ct-cretacolor%2F-%2FA-53043069&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "53043069"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/17c60ab425c001438165a74c7b7d32c1",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/17c60ab425c001438165a74c7b7d32c1",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/17c60ab425c001438165a74c7b7d32c1",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6325527",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Drawing Pencil Set 12ct - Cretacolor",
+    "product_description": "This Drawing Pencil Assortment by Cretacolor features a softer range of 12 graphite drawing pencils for creating rich black values. The B grade pencils push the shadows deeper and create high contrast and the illusion of depth. The kit also contains a few harder leads primarily used for light outlines and sketching. The set contains 9B, 8B, 7B, 6B, 5B, 4B, 3B, 2B, B, HB, F, and 2H, from softest to hardest respectively. Both the amount of applied pressure and the degree of lead allows artists to control the gradation of values within an artwork. The Drawing Pencil Assortment is packaged in a handy tin for protection and storage.",
+    "brand": "CRETACOLOR",
+    "category_name": "Stationery",
+    "character": ["emo", "spiritualist", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2099,
+    "sale_price": 2099,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/17c60ab425c001438165a74c7b7d32c1"
+    ],
+    "web_url": "https://www.target.com/p/drawing-pencil-set-12ct-cretacolor/-/A-53043069",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=53043069&u=https%3A%2F%2Fwww.target.com%2Fp%2Fdrawing-pencil-set-12ct-cretacolor%2F-%2FA-53043069&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["53043069"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/17c60ab425c001438165a74c7b7d32c1",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/17c60ab425c001438165a74c7b7d32c1",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/17c60ab425c001438165a74c7b7d32c1",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "5810663",
-        "store_name": "Urban Outfitters",
-        "host_name": "urbanoutfitters.com",
-        "title": "Waterman Clear Soprano Ukulele",
-        "product_description": "50s-inspired ukulele in a transparent, tinted color-pop finish by Kala. Compact construction is perfect for keeping on hand whenever you want to serenade your faves. Content + Care. Includes ukulele, carrying bag and quick start guide ABS composite plastic Wipe clean Imported Size. Dimensions: 20.75l x 6.25w x 2.25h Weight: 1 lb Shipping package dimensions: 21.4l x 7.5w x 3.1h Shipping package weight: 1.14 lbs",
-        "brand": "Kala",
-        "category_name": "Mobile Phones",
-        "character": [
-            "geek",
-            "influencer",
-            "spiritualist"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 5000,
-        "sale_price": 5000,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/urbanoutfitters.com/80a830964497c78f17113680bf9b0860"
-        ],
-        "web_url": "https://www.urbanoutfitters.com/shop/kala-waterman-clear-soprano-ukulele?inventoryCountry=US&color=034",
-        "mobile_url": null,
-        "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=886033.389447&type=15&murl=https%3A%2F%2Fwww.urbanoutfitters.com%2Fshop%2Fkala-waterman-clear-soprano-ukulele%3FinventoryCountry%3DUS%26color%3D034%26size%3DALL%26utm_kxconfid%3Dv3sc2kde4",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "389447"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "5810663",
+    "store_name": "Urban Outfitters",
+    "host_name": "urbanoutfitters.com",
+    "title": "Waterman Clear Soprano Ukulele",
+    "product_description": "50s-inspired ukulele in a transparent, tinted color-pop finish by Kala. Compact construction is perfect for keeping on hand whenever you want to serenade your faves. Content + Care. Includes ukulele, carrying bag and quick start guide ABS composite plastic Wipe clean Imported Size. Dimensions: 20.75l x 6.25w x 2.25h Weight: 1 lb Shipping package dimensions: 21.4l x 7.5w x 3.1h Shipping package weight: 1.14 lbs",
+    "brand": "Kala",
+    "category_name": "Mobile Phones",
+    "character": ["geek", "influencer", "spiritualist"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 5000,
+    "sale_price": 5000,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/urbanoutfitters.com/80a830964497c78f17113680bf9b0860"
+    ],
+    "web_url": "https://www.urbanoutfitters.com/shop/kala-waterman-clear-soprano-ukulele?inventoryCountry=US&color=034",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=886033.389447&type=15&murl=https%3A%2F%2Fwww.urbanoutfitters.com%2Fshop%2Fkala-waterman-clear-soprano-ukulele%3FinventoryCountry%3DUS%26color%3D034%26size%3DALL%26utm_kxconfid%3Dv3sc2kde4",
+    "klarna_merchant_id": null,
+    "feed_key": ["389447"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/urbanoutfitters.com/80a830964497c78f17113680bf9b0860",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
     },
-    {
-        "product_id": "6295771",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "Comic Sketch Coloring Book - Piccadilly",
-        "product_description": "Make your very own superhero story to come to life with the newest addition to Piccadilly's sketchbook line – Comic Sketchbook. Modeled after the best-selling Open Bound Sketchbook, the new Comic Sketchbook is a creative’s dream come true–allowing you to sketch, draw or write with its lay open flat ingenious design. Let your imagination run wild and start sketching!",
-        "brand": "Piccadilly",
-        "category_name": "Stationery",
-        "character": [
-            "geek",
-            "dad"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1299,
-        "sale_price": 1299,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/c163f4f97bb106d683fd3576efebe2c1"
-        ],
-        "web_url": "https://www.target.com/p/comic-sketch-coloring-book-piccadilly/-/A-75573701",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=75573701&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcomic-sketch-coloring-book-piccadilly%2F-%2FA-75573701&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "75573701"
-        ],
-        "locale": "en-US",
-        "image": {
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/c163f4f97bb106d683fd3576efebe2c1",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/c163f4f97bb106d683fd3576efebe2c1",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/c163f4f97bb106d683fd3576efebe2c1",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6295771",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Comic Sketch Coloring Book - Piccadilly",
+    "product_description": "Make your very own superhero story to come to life with the newest addition to Piccadilly's sketchbook line – Comic Sketchbook. Modeled after the best-selling Open Bound Sketchbook, the new Comic Sketchbook is a creative’s dream come true–allowing you to sketch, draw or write with its lay open flat ingenious design. Let your imagination run wild and start sketching!",
+    "brand": "Piccadilly",
+    "category_name": "Stationery",
+    "character": ["geek", "dad"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1299,
+    "sale_price": 1299,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/c163f4f97bb106d683fd3576efebe2c1"
+    ],
+    "web_url": "https://www.target.com/p/comic-sketch-coloring-book-piccadilly/-/A-75573701",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=75573701&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcomic-sketch-coloring-book-piccadilly%2F-%2FA-75573701&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["75573701"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/c163f4f97bb106d683fd3576efebe2c1",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/c163f4f97bb106d683fd3576efebe2c1",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/c163f4f97bb106d683fd3576efebe2c1",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "6323962",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "You Can Draw\" Drawing Book - Hinkler Books",
-        "product_description": "You Can Draw guides you step by step through the drawing process from the beginning, building your skills so your drawings are better than ever! Practical advice on using gridlines and wire-frames to create amazing art. Clear step-by-step instructions with easy-to-follow diagrams. Lots of helpful artist’s tips. Discover how easy it is to master this fun and rewarding hobby and create awesome drawings!",
-        "brand": "Hinkler Books",
-        "category_name": "Books",
-        "character": [
-            "geek",
-            "influencer"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1499,
-        "sale_price": 1499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/0c7216842fd87463d4a99fa3d5cd8875"
-        ],
-        "web_url": "https://www.target.com/p/34-you-can-draw-34-drawing-book-hinkler-books/-/A-79847782",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=79847782&u=https%3A%2F%2Fwww.target.com%2Fp%2F34-you-can-draw-34-drawing-book-hinkler-books%2F-%2FA-79847782&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "79847782"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/0c7216842fd87463d4a99fa3d5cd8875",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/0c7216842fd87463d4a99fa3d5cd8875",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/0c7216842fd87463d4a99fa3d5cd8875",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "6323962",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "You Can Draw\" Drawing Book - Hinkler Books",
+    "product_description": "You Can Draw guides you step by step through the drawing process from the beginning, building your skills so your drawings are better than ever! Practical advice on using gridlines and wire-frames to create amazing art. Clear step-by-step instructions with easy-to-follow diagrams. Lots of helpful artist’s tips. Discover how easy it is to master this fun and rewarding hobby and create awesome drawings!",
+    "brand": "Hinkler Books",
+    "category_name": "Books",
+    "character": ["geek", "influencer"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1499,
+    "sale_price": 1499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/0c7216842fd87463d4a99fa3d5cd8875"
+    ],
+    "web_url": "https://www.target.com/p/34-you-can-draw-34-drawing-book-hinkler-books/-/A-79847782",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=79847782&u=https%3A%2F%2Fwww.target.com%2Fp%2F34-you-can-draw-34-drawing-book-hinkler-books%2F-%2FA-79847782&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["79847782"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/0c7216842fd87463d4a99fa3d5cd8875",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/0c7216842fd87463d4a99fa3d5cd8875",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/0c7216842fd87463d4a99fa3d5cd8875",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "5950596",
-        "store_name": "Academy",
-        "host_name": "academy.com",
-        "title": "Electronic Dartboard",
-        "product_description": "The Franklin Electronic Dartboard features up to 176 game variations and a 15.5\" tournament-size playing area. Franklin Electronic Dartboard - Billiards And Table Tennis at Academy Sports",
-        "brand": "Franklin",
-        "category_name": "Indoor Games",
-        "character": [
-            "gym rat",
-            "geek"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 7499,
-        "sale_price": 7499,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/academy.com/eef08745c4d8f95a988b2ce9e37445b0"
-        ],
-        "web_url": "https://www.academy.com/shop/pdp/franklin-electronic-dartboard#repChildCatid=3903034",
-        "mobile_url": null,
-        "affiliate_url": "https://www.jdoqocy.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Ffranklin-electronic-dartboard%23repChildCatid%3D3903034",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "110947887"
-        ],
-        "locale": "en-US",
-        "image": {
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            }
-        },
-        "other_images": null
+    "other_images": null
+  },
+  {
+    "product_id": "5950596",
+    "store_name": "Academy",
+    "host_name": "academy.com",
+    "title": "Electronic Dartboard",
+    "product_description": "The Franklin Electronic Dartboard features up to 176 game variations and a 15.5\" tournament-size playing area. Franklin Electronic Dartboard - Billiards And Table Tennis at Academy Sports",
+    "brand": "Franklin",
+    "category_name": "Indoor Games",
+    "character": ["gym rat", "geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 7499,
+    "sale_price": 7499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/academy.com/eef08745c4d8f95a988b2ce9e37445b0"
+    ],
+    "web_url": "https://www.academy.com/shop/pdp/franklin-electronic-dartboard#repChildCatid=3903034",
+    "mobile_url": null,
+    "affiliate_url": "https://www.jdoqocy.com/click-9252602-13666165?url=https%3A%2F%2Fwww.academy.com%2Fshop%2Fpdp%2Ffranklin-electronic-dartboard%23repChildCatid%3D3903034",
+    "klarna_merchant_id": null,
+    "feed_key": ["110947887"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/academy.com/eef08745c4d8f95a988b2ce9e37445b0",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
     },
-    {
-        "product_id": "6290578",
-        "store_name": "Target",
-        "host_name": "target.com",
-        "title": "3pc Garden Tool Set",
-        "product_description": "Make gardening chore easier than ever with the Fiskars 3pc DuraFrame Garden Tools Set. These yard tools make quick work of planting seeds, pulling weeds and expanding your garden. Each piece is made with DuraFrame construction for a long-lasting tool you'll reach for season after season. With holes at the end, each piece can easily be stored in your shop, garage or garden shed, keeping your space clutter-free.",
-        "brand": "Fiskars",
-        "category_name": "Garden",
-        "character": [
-            "influencer",
-            "spiritualist",
-            "mom"
-        ],
-        "is_male": null,
-        "is_female": null,
-        "price_currency": "USD",
-        "retail_price": 1799,
-        "sale_price": 1799,
-        "in_stock": true,
-        "image_url": [
-            "https://img.klarnacdn.net/2/thumbnail/target.com/40d4d77296a320c49bd2c5142294ca3c"
-        ],
-        "web_url": "https://www.target.com/p/fiskars-3pc-garden-tool-set/-/A-14767606",
-        "mobile_url": null,
-        "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=14767606&u=https%3A%2F%2Fwww.target.com%2Fp%2Ffiskars-3pc-garden-tool-set%2F-%2FA-14767606&intsrc=CATF_530",
-        "klarna_merchant_id": null,
-        "feed_key": [
-            "14767606"
-        ],
-        "locale": "en-US",
-        "image": {
-            "small": {
-                "url": "https://img.klarnacdn.net/2/small/target.com/40d4d77296a320c49bd2c5142294ca3c",
-                "width": 330,
-                "format": "small",
-                "height": 330
-            },
-            "thumbnail": {
-                "url": "https://img.klarnacdn.net/2/thumbnail/target.com/40d4d77296a320c49bd2c5142294ca3c",
-                "width": 220,
-                "format": "thumbnail",
-                "height": 220
-            },
-            "source": {
-                "url": "https://img.klarnacdn.net/2/source/target.com/40d4d77296a320c49bd2c5142294ca3c",
-                "width": -1,
-                "format": "source",
-                "height": -1
-            }
-        },
-        "other_images": null
-    }
+    "other_images": null
+  },
+  {
+    "product_id": "6290578",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "3pc Garden Tool Set",
+    "product_description": "Make gardening chore easier than ever with the Fiskars 3pc DuraFrame Garden Tools Set. These yard tools make quick work of planting seeds, pulling weeds and expanding your garden. Each piece is made with DuraFrame construction for a long-lasting tool you'll reach for season after season. With holes at the end, each piece can easily be stored in your shop, garage or garden shed, keeping your space clutter-free.",
+    "brand": "Fiskars",
+    "category_name": "Garden",
+    "character": ["influencer", "spiritualist", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1799,
+    "sale_price": 1799,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/40d4d77296a320c49bd2c5142294ca3c"
+    ],
+    "web_url": "https://www.target.com/p/fiskars-3pc-garden-tool-set/-/A-14767606",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=14767606&u=https%3A%2F%2Fwww.target.com%2Fp%2Ffiskars-3pc-garden-tool-set%2F-%2FA-14767606&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["14767606"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/40d4d77296a320c49bd2c5142294ca3c",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/40d4d77296a320c49bd2c5142294ca3c",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/40d4d77296a320c49bd2c5142294ca3c",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "6327219",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Guided Journal 5.6\"x 8.3\" Create Your Own Journal - Piccadilly",
+    "product_description": "Writing in a journal can be a bit dull. So why not turn your journaling time into journeying time with this Piccadilly journal! You can create between 10 different journeys, begin on the designated page, complete the self-discovery prompt, and skip ahead to the next prompt until the journey is fulfilled. The journey ends with retrospectives that give you a chance to understand the big picture behind the journaling process.",
+    "brand": "Piccadilly",
+    "category_name": "Journals & Planners",
+    "character": ["spiritualist", "influencer", "traveller"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 799,
+    "sale_price": 799,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/a88338cfc7fe364a651a8f205f7cb7ea"
+    ],
+    "web_url": "https://www.target.com/p/guided-journal-5-6-34-x-8-3-34-create-your-own-journal-piccadilly/-/A-54212763",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=54212763&u=https%3A%2F%2Fwww.target.com%2Fp%2Fguided-journal-5-6-34-x-8-3-34-create-your-own-journal-piccadilly%2F-%2FA-54212763&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["54212763"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/a88338cfc7fe364a651a8f205f7cb7ea",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/a88338cfc7fe364a651a8f205f7cb7ea",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/a88338cfc7fe364a651a8f205f7cb7ea",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "7573131",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "18pk Permanent Markers Fine - Sharpie",
+    "product_description": "Made to mark practically anywhere, Sharpie Permanent Markers inspire you to transform ordinary surfaces into passionately creative statements. This special-edition pack features Sharpie Markers in Classic, Metallic, and Mystic Gem colors, which combine soft pastels with darker, natural colors to produce vibrant marks inspired by the dynamic energy of gemstones. The original permanent marker, Sharpie features iconic ink that dries quickly and resists both water and fading. Finally, depend on these fine-point markers to leave bold marks that impress.",
+    "brand": "Sharpie",
+    "category_name": "Stationery",
+    "character": ["geek", "traveller", "influencer", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 999,
+    "sale_price": 999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/2212fd9f72f8860a8b471df0a0324bff"
+    ],
+    "web_url": "https://www.target.com/p/18pk-permanent-markers-fine-sharpie/-/A-81869677",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=81869677&u=https%3A%2F%2Fwww.target.com%2Fp%2F18pk-permanent-markers-fine-sharpie%2F-%2FA-81869677&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["81869677"],
+    "locale": "en-US",
+    "image": {
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/2212fd9f72f8860a8b471df0a0324bff",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/2212fd9f72f8860a8b471df0a0324bff",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/2212fd9f72f8860a8b471df0a0324bff",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "2855003",
+    "store_name": "Gilt",
+    "host_name": "gilt.com",
+    "title": "Basil-Tov Planter",
+    "product_description": "Color/finish: white Design details: dolomite construction Measures 5in x 5in x 4.3in Imported",
+    "brand": "Shiraleah",
+    "category_name": "Garden",
+    "character": ["mom", "geek"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1999,
+    "sale_price": 1999,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gilt.com/7744ca594fa89bbfb108627b3d1dfa92"
+    ],
+    "web_url": "https://www.gilt.com/boutique/product/124028/98309042/",
+    "mobile_url": null,
+    "affiliate_url": "https://www.pntra.com/t/1-9373-AFFILIATE_ID-9373?url=https%3A%2F%2Fwww.gilt.com%2Fboutique%2Fproduct%2F124028%2F98309042%2F",
+    "klarna_merchant_id": null,
+    "feed_key": ["3050138998"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gilt.com/7744ca594fa89bbfb108627b3d1dfa92",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gilt.com/7744ca594fa89bbfb108627b3d1dfa92",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gilt.com/7744ca594fa89bbfb108627b3d1dfa92",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "7571274",
+    "store_name": "Target",
+    "host_name": "target.com",
+    "title": "Harvesting Basket",
+    "product_description": "Fiskars? Garden Harvest Basket provides an easy, efficient way to collect, transport and clean your harvested produce and harvesting tools. With both a colander side and an enclosed side, you can separate food from tools and washed food from unwashed food. Freshly harvested produce can be hosed off or rinsed and soaked. Ergonomic side handles offer a comfortable way to carry large harvests with two hands, while separate folding handles interlock for one-handed use.",
+    "brand": "Fiskars",
+    "category_name": "Garden",
+    "character": ["dad", "gym rat", "mom"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 1499,
+    "sale_price": 1499,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/target.com/847a8209f9125f6c45f39e0c332e2990"
+    ],
+    "web_url": "https://www.target.com/p/fiskars-harvesting-basket/-/A-79859436",
+    "mobile_url": null,
+    "affiliate_url": "https://goto.target.com/c/2197213/78775/2092?prodsku=79859436&u=https%3A%2F%2Fwww.target.com%2Fp%2Ffiskars-harvesting-basket%2F-%2FA-79859436&intsrc=CATF_530",
+    "klarna_merchant_id": null,
+    "feed_key": ["79859436"],
+    "locale": "en-US",
+    "image": {
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/target.com/847a8209f9125f6c45f39e0c332e2990",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/target.com/847a8209f9125f6c45f39e0c332e2990",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/target.com/847a8209f9125f6c45f39e0c332e2990",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      }
+    },
+    "other_images": null
+  },
+  {
+    "product_id": "4819325",
+    "store_name": "GameStop",
+    "host_name": "gamestop.com",
+    "title": "Blame It On Baby by Dababy Vinyl Interscope Records GameStop",
+    "product_description": "Dababy: Blame It On Baby Blame It On Baby by Dababy Vinyl",
+    "brand": "Interscope Records",
+    "category_name": "Electronics",
+    "character": ["influencer", "dad"],
+    "is_male": null,
+    "is_female": null,
+    "price_currency": "USD",
+    "retail_price": 2598,
+    "sale_price": 2399,
+    "in_stock": true,
+    "image_url": [
+      "https://img.klarnacdn.net/2/thumbnail/gamestop.com/df16d1775b58cbfda8e4a8d29de46c49"
+    ],
+    "web_url": "https://www.gamestop.com/electronics/music-movies/music/products/blame-it-on-baby-by-dababy-vinyl/264006.html",
+    "mobile_url": null,
+    "affiliate_url": "https://click.linksynergy.com/link?id=AFFILIATE_ID&offerid=853930.80971&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Felectronics%2Fmusic-movies%2Fmusic%2Fproducts%2Fblame-it-on-baby-by-dababy-vinyl%2F264006.html",
+    "klarna_merchant_id": "N104869",
+    "feed_key": ["80971"],
+    "locale": "en-US",
+    "image": {
+      "small": {
+        "url": "https://img.klarnacdn.net/2/small/gamestop.com/df16d1775b58cbfda8e4a8d29de46c49",
+        "width": 330,
+        "format": "small",
+        "height": 330
+      },
+      "source": {
+        "url": "https://img.klarnacdn.net/2/source/gamestop.com/df16d1775b58cbfda8e4a8d29de46c49",
+        "width": -1,
+        "format": "source",
+        "height": -1
+      },
+      "thumbnail": {
+        "url": "https://img.klarnacdn.net/2/thumbnail/gamestop.com/df16d1775b58cbfda8e4a8d29de46c49",
+        "width": 220,
+        "format": "thumbnail",
+        "height": 220
+      }
+    },
+    "other_images": null
+  }
 ]
