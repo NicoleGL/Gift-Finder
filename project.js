@@ -8,3 +8,19 @@ async function fetchJsonData(nameOfJson) {
   const data = response.json();
   return data;
 }
+
+function selectOrDeselect(el) {
+  el.classList.toggle("selected");
+}
+
+function selectAll(elements) {
+  for (let element of elements) {
+    element.classList.add("selected");
+  }
+}
+
+function deselectAll(elements) {
+  for (let element of elements) {
+    element.classList.remove("selected");
+  }
+}
