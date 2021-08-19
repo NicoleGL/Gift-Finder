@@ -1,0 +1,77 @@
+.row-of-buttons {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: auto;
+}
+
+.scrollable {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.character-name {
+  margin: 0;
+  font-size: 20px;
+  color: black;
+}
+
+.character-img {
+  width: 70%;
+  height: 80%;
+  object-fit: contain;
+}
+.character-button {
+  padding: 0;
+  width: 15%;
+  height: 45%;
+  margin: 0px 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  background: white;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 42%;
+}
+
+.character-button:hover {
+  background: var(--white-hover);
+}
+
+.character-button:active {
+  filter: none;
+}
+
+@media only screen and (max-width: 700px) {
+  .row-of-buttons {
+    height: auto;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: scroll;
+  }
+  .character-button {
+    width: 80%;
+    height: 50px;
+    margin: 5%;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .character-img {
+    width: 30%;
+    object-fit: contain;
+  }
+  .scrollable {
+    display: block;
+    overflow-y: scroll;
+  }
+}
